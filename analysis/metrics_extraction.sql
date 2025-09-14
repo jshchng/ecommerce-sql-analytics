@@ -2,7 +2,6 @@
 -- Extract key metrics for README (Business Impact & Key Findings)
 -- Run this AFTER running all main project SQL scripts
 
--- metrics_extraction.sql (fixed version)
 USE northwestern_commerce;
 
 -- =============================================================
@@ -28,7 +27,7 @@ FROM ranked_customers
 WHERE rn <= CEIL(total_customers * 0.2);
 
 -- =============================================================
--- 2. High Churn Risk Customers (simplified from orders)
+-- 2. High Churn Risk Customers
 -- =============================================================
 SELECT COUNT(*) AS high_churn_risk_customers
 FROM (
@@ -63,7 +62,7 @@ JOIN products p1 ON op.product_a = p1.product_id
 JOIN products p2 ON op.product_b = p2.product_id;
 
 -- =============================================================
--- 4. Customer Segmentation Revenue Breakdown (fixed)
+-- 4. Customer Segmentation Revenue Breakdown
 -- =============================================================
 SELECT customer_segment,
        COUNT(*) AS customer_count,

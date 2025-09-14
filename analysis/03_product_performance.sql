@@ -4,7 +4,7 @@
 USE northwestern_commerce;
 
 -- =============================================================================
--- CREATE PRODUCT METRICS (temp table)
+-- CREATE PRODUCT METRICS
 -- =============================================================================
 
 DROP TEMPORARY TABLE IF EXISTS product_metrics;

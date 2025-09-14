@@ -4,7 +4,7 @@
 USE northwestern_commerce;
 
 -- =============================================================================
--- STEP 1: Base reusable temp tables
+-- Base reusable temp tables
 -- =============================================================================
 
 -- Net revenue per order item

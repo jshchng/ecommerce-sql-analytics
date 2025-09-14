@@ -4,7 +4,7 @@
 USE northwestern_commerce;
 
 -- =============================================================================
--- CREATE RFM SCORES (materialized as a temp table)
+-- CREATE RFM SCORES
 -- =============================================================================
 
 DROP TEMPORARY TABLE IF EXISTS rfm_scores;
