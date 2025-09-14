@@ -1,0 +1,1028 @@
+product_id	product_name	category	subcategory	brand	cost_price	order_count	units_sold	total_revenue	avg_selling_price	avg_profit_per_unit	total_profit	avg_discount_percent
+689	HP Accessories Versatile mobile hub	Electronics	Accessories	HP	743.02	92	16512	27560340.45	1737.650000	1654.5127536196	15291594.21	5.49
+327	HP Accessories Cloned discrete circuit	Electronics	Accessories	HP	682.71	86	14835	23262397.80	1596.070000	1559.2990697674	13134394.95	2.63
+381	Microsoft Smartphones Fully-configurable transitional customer loyalty	Electronics	Smartphones	Microsoft	725.85	83	13800	22571485.85	1691.240000	1629.7455622530	12554755.85	4.76
+579	Dell Gaming Organic secondary flexibility	Electronics	Gaming	Dell	688.35	75	13392	21589178.72	1659.980000	1603.0357111067	12370795.52	4.15
+823	Sony Smartphones Streamlined coherent forecast	Electronics	Smartphones	Sony	715.33	83	13328	21229355.84	1641.670000	1585.2845983976	11695437.60	4.26
+621	HP Accessories Reactive didactic infrastructure	Electronics	Accessories	HP	653.98	81	13924	20461911.54	1518.130000	1455.9666049383	11355894.02	4.66
+991	Microsoft Smartphones User-centric 6thgeneration alliance	Electronics	Smartphones	Microsoft	679.74	82	13764	20186441.12	1518.650000	1456.9254471463	10830499.76	4.64
+997	Apple Accessories Extended optimizing conglomeration	Electronics	Accessories	Apple	779.24	82	12430	19391526.59	1612.370000	1548.9292682927	9705573.39	4.35
+871	Sony Tablets Front-line zero administration capacity	Electronics	Tablets	Sony	739.26	78	13224	19200308.40	1511.520000	1441.7113461538	9424334.16	5.76
+234	HP Gaming Streamlined bandwidth-monitored system engine	Electronics	Gaming	HP	680.57	89	17408	18587328.08	1106.830000	1061.0428277191	6739965.52	5.08
+217	Apple Gaming De-engineered client-driven model	Electronics	Gaming	Apple	743.09	74	11663	18581388.88	1648.670000	1582.5793243243	9914730.21	4.96
+620	Samsung Gaming Grass-roots mission-critical installation	Electronics	Gaming	Samsung	719.34	78	11554	18557193.32	1670.890000	1596.8331196667	10245938.96	5.27
+56	HP Accessories Adaptive intermediate forecast	Electronics	Accessories	HP	718.89	72	11655	18371749.20	1630.020000	1570.4079629583	9993086.25	5.08
+384	Sony Laptops Secured bottom-line projection	Electronics	Laptops	Sony	776.21	81	13104	18245273.67	1436.040000	1382.7518930000	8073817.83	4.21
+566	Dell Accessories Optimized dynamic ability	Electronics	Accessories	Dell	719.48	68	10300	17883169.00	1773.590000	1736.8767892206	10472525.00	3.10
+8	Apple Gaming Expanded 24/7 process improvement	Electronics	Gaming	Apple	690.76	70	11556	17834602.68	1592.370000	1531.4812857143	9852180.12	4.71
+754	HP Gaming Digitized real-time migration	Electronics	Gaming	HP	510.82	92	15498	17556436.98	1161.410000	1127.6232246413	9639748.62	3.37
+801	Apple Gaming Open-architected fault-tolerant capacity	Electronics	Gaming	Apple	521.60	84	14605	17176164.53	1210.260000	1169.6947817500	9558196.53	3.87
+651	Dell Tablets Exclusive value-added system engine	Electronics	Tablets	Dell	767.36	76	10404	16992302.40	1683.140000	1626.7734649211	9008688.96	3.98
+572	Dell Gaming Profit-focused solution-oriented firmware	Electronics	Gaming	Dell	545.15	83	13098	16641552.98	1313.470000	1264.7769076265	9501178.28	4.37
+category	product_count	order_count	units_sold	revenue	avg_price	avg_cost	total_profit	profit_margin_percent
+Electronics	197	14565	2168807	1788791427.74	846.8568020305	446.924162	812177979.78	45.40
+Home	194	14262	2117398	638303488.53	313.8045876289	165.292423	289359554.86	45.33
+Sports	208	15266	2269656	482768895.84	219.7958173077	119.157548	211881511.68	43.89
+Clothing	216	15829	2353781	364121382.41	158.4389351852	83.134907	165590013.51	45.48
+Books	185	13689	2039757	89892714.50	45.4601081081	23.988865	40701789.52	45.28
+product_id	product_name	category	days_since_launch	total_units_sold	total_revenue	units_per_day	revenue_per_day	velocity_quintile	velocity_category
+527	West Elm Garden Centralized 24hour benchmark	Home	0	142	5411.36	142.00	5411.36	1	High Velocity
+926	Nike Accessories Switchable motivating toolset	Clothing	0	142	27297.95	142.00	27297.95	1	High Velocity
+273	HP Smartphones Polarized systematic orchestration	Electronics	0	140	36392.04	140.00	36392.04	1	High Velocity
+659	IKEA Garden Digitized maximized emulation	Home	0	139	21493.63	139.00	21493.63	1	High Velocity
+809	West Elm Garden Extended logistical parallelism	Home	0	139	30862.63	139.00	30862.63	1	High Velocity
+87	Random House Educational Down-sized holistic functionalities	Books	0	138	5341.98	138.00	5341.98	1	High Velocity
+224	McGraw Hill Reference Grass-roots multimedia monitoring	Books	0	138	11568.55	138.00	11568.55	1	High Velocity
+344	Microsoft Tablets Enhanced next generation application	Electronics	0	138	15464.13	138.00	15464.13	1	High Velocity
+676	Nike Fitness Universal 6thgeneration archive	Sports	0	138	8537.43	138.00	8537.43	1	High Velocity
+395	Nike Fitness Automated web-enabled array	Sports	0	137	22388.36	137.00	22388.36	1	High Velocity
+36	Penguin Educational Devolved analyzing infrastructure	Books	0	136	2770.24	136.00	2770.24	1	High Velocity
+154	IKEA Kitchen Function-based directional benchmark	Home	0	136	14172.15	136.00	14172.15	1	High Velocity
+157	Scholastic Non-Fiction Centralized system-worthy access	Books	0	134	9919.23	134.00	9919.23	1	High Velocity
+884	Home Depot Storage User-centric explicit Local Area Network	Home	0	134	56074.93	134.00	56074.93	1	High Velocity
+345	Random House Educational Synergistic next generation functionalities	Books	0	133	4432.62	133.00	4432.62	1	High Velocity
+887	Zara Kids Switchable composite help-desk	Clothing	0	132	31039.16	132.00	31039.16	1	High Velocity
+107	Nike Mens Persevering mission-critical challenge	Clothing	0	131	23407.87	131.00	23407.87	1	High Velocity
+233	Sony Accessories Cloned stable archive	Electronics	0	131	73107.09	131.00	73107.09	1	High Velocity
+603	Under Armour Fitness Front-line methodical website	Sports	0	131	35565.06	131.00	35565.06	1	High Velocity
+608	Penguin Non-Fiction Function-based solution-oriented project	Books	0	131	4067.87	131.00	4067.87	1	High Velocity
+814	Scholastic Children Triple-buffered fault-tolerant initiative	Books	0	131	6868.04	131.00	6868.04	1	High Velocity
+853	Random House Fiction Phased bi-directional extranet	Books	0	131	8112.36	131.00	8112.36	1	High Velocity
+6	HP Tablets Open-architected 24/7 process improvement	Electronics	0	130	53513.43	130.00	53513.43	1	High Velocity
+360	Levis Accessories Open-source systemic firmware	Clothing	0	130	12599.51	130.00	12599.51	1	High Velocity
+964	Wayfair Furniture Devolved intangible standardization	Home	0	130	67073.73	130.00	67073.73	1	High Velocity
+327	HP Accessories Cloned discrete circuit	Electronics	0	129	202281.72	129.00	202281.72	1	High Velocity
+463	Wayfair Garden Seamless 24/7 conglomeration	Home	0	129	33064.24	129.00	33064.24	1	High Velocity
+501	Penguin Children Cross-group foreground architecture	Books	0	129	2751.03	129.00	2751.03	1	High Velocity
+685	Nike Fitness Centralized real-time structure	Sports	0	129	44603.72	129.00	44603.72	1	High Velocity
+75	Scholastic Reference Profound next generation synergy	Books	0	128	4340.29	128.00	4340.29	1	High Velocity
+234	HP Gaming Streamlined bandwidth-monitored system engine	Electronics	0	128	136671.53	128.00	136671.53	1	High Velocity
+267	West Elm Kitchen Open-architected high-level firmware	Home	0	128	42069.40	128.00	42069.40	1	High Velocity
+570	Gap Accessories Triple-buffered didactic flexibility	Clothing	0	128	19148.53	128.00	19148.53	1	High Velocity
+689	HP Accessories Versatile mobile hub	Electronics	0	128	213646.05	128.00	213646.05	1	High Velocity
+709	HP Tablets De-engineered eco-centric toolset	Electronics	0	128	87210.92	128.00	87210.92	1	High Velocity
+21	Dell Laptops Business-focused zero-defect budgetary management	Electronics	0	127	96950.61	127.00	96950.61	1	High Velocity
+50	IKEA Kitchen Secured context-sensitive database	Home	0	127	73154.67	127.00	73154.67	1	High Velocity
+98	Adidas Mens Configurable human-resource encoding	Clothing	0	127	16670.55	127.00	16670.55	1	High Velocity
+682	HP Gaming Profound logistical database	Electronics	0	127	122751.61	127.00	122751.61	1	High Velocity
+748	McGraw Hill Reference Implemented 6thgeneration Internet solution	Books	0	127	6739.94	127.00	6739.94	1	High Velocity
+925	Dell Gaming Exclusive real-time support	Electronics	0	127	90520.97	127.00	90520.97	1	High Velocity
+34	Scholastic Educational Extended interactive strategy	Books	0	126	4380.25	126.00	4380.25	1	High Velocity
+205	Apple Laptops Ergonomic fault-tolerant parallelism	Electronics	0	126	16444.89	126.00	16444.89	1	High Velocity
+236	Adidas Winter Cloned 4thgeneration matrices	Sports	0	126	46262.13	126.00	46262.13	1	High Velocity
+298	Zara Mens Digitized cohesive challenge	Clothing	0	126	25644.85	126.00	25644.85	1	High Velocity
+557	Random House Educational Automated stable algorithm	Books	0	126	7398.74	126.00	7398.74	1	High Velocity
+616	Nike Accessories Synergistic even-keeled success	Clothing	0	126	29526.01	126.00	29526.01	1	High Velocity
+754	HP Gaming Digitized real-time migration	Electronics	0	126	142735.26	126.00	142735.26	1	High Velocity
+762	Wayfair Furniture Re-contextualized user-facing paradigm	Home	0	126	46305.56	126.00	46305.56	1	High Velocity
+767	West Elm Garden Versatile full-range open system	Home	0	126	27125.37	126.00	27125.37	1	High Velocity
+940	Dell Smartphones Switchable reciprocal contingency	Electronics	0	126	102427.46	126.00	102427.46	1	High Velocity
+10	Patagonia Team Sports Fundamental content-based attitude	Sports	0	125	48326.07	125.00	48326.07	1	High Velocity
+302	HP Accessories Switchable foreground installation	Electronics	0	125	78805.99	125.00	78805.99	1	High Velocity
+394	Adidas Shoes Enhanced even-keeled leverage	Clothing	0	125	15915.35	125.00	15915.35	1	High Velocity
+447	Patagonia Fitness Synchronized didactic database	Sports	0	125	47773.68	125.00	47773.68	1	High Velocity
+705	Wayfair Storage Multi-layered 4thgeneration initiative	Home	0	125	53019.63	125.00	53019.63	1	High Velocity
+716	Adidas Kids Face-to-face national protocol	Clothing	0	125	20153.23	125.00	20153.23	1	High Velocity
+806	Wayfair Garden Open-source static portal	Home	0	125	47548.36	125.00	47548.36	1	High Velocity
+892	Random House Educational Reverse-engineered context-sensitive firmware	Books	0	125	4800.80	125.00	4800.80	1	High Velocity
+902	Harper Non-Fiction Profound background access	Books	0	125	5779.69	125.00	5779.69	1	High Velocity
+70	Gap Kids Profit-focused demand-driven pricing structure	Clothing	0	124	7556.18	124.00	7556.18	1	High Velocity
+117	Nike Winter Re-contextualized neutral collaboration	Sports	0	124	32886.31	124.00	32886.31	1	High Velocity
+146	Home Depot Garden Virtual bottom-line interface	Home	0	124	24984.68	124.00	24984.68	1	High Velocity
+370	Levis Womens Implemented content-based paradigm	Clothing	0	124	20564.17	124.00	20564.17	1	High Velocity
+612	Levis Mens Switchable exuding superstructure	Clothing	0	124	10321.25	124.00	10321.25	1	High Velocity
+896	Patagonia Outdoor Monitored global definition	Sports	0	124	39917.97	124.00	39917.97	1	High Velocity
+911	Harper Reference Profit-focused transitional leverage	Books	0	124	4109.98	124.00	4109.98	1	High Velocity
+927	Nike Outdoor Decentralized impactful methodology	Sports	0	124	36818.55	124.00	36818.55	1	High Velocity
+94	West Elm Decor Devolved 3rdgeneration function	Home	0	123	64390.51	123.00	64390.51	1	High Velocity
+293	Adidas Mens Fundamental empowering throughput	Clothing	0	123	30956.14	123.00	30956.14	1	High Velocity
+399	Under Armour Fitness Mandatory secondary secured line	Sports	0	123	27610.70	123.00	27610.70	1	High Velocity
+404	Scholastic Non-Fiction Devolved radical system engine	Books	0	123	6705.66	123.00	6705.66	1	High Velocity
+414	Samsung Gaming Distributed systematic complexity	Electronics	0	123	50293.89	123.00	50293.89	1	High Velocity
+415	REI Winter Secured methodical website	Sports	0	123	35326.59	123.00	35326.59	1	High Velocity
+427	Gap Mens Multi-tiered real-time circuit	Clothing	0	123	15616.28	123.00	15616.28	1	High Velocity
+538	West Elm Kitchen Multi-channeled optimal workforce	Home	0	123	29602.55	123.00	29602.55	1	High Velocity
+554	Target Furniture Upgradable contextually-based parallelism	Home	0	123	18474.38	123.00	18474.38	1	High Velocity
+782	West Elm Decor Configurable interactive focus group	Home	0	123	21651.12	123.00	21651.12	1	High Velocity
+805	Random House Children Open-source local hardware	Books	0	123	8237.29	123.00	8237.29	1	High Velocity
+837	Zara Mens Reverse-engineered bi-directional moratorium	Clothing	0	123	16235.85	123.00	16235.85	1	High Velocity
+845	Wayfair Kitchen Right-sized coherent service-desk	Home	0	123	26375.91	123.00	26375.91	1	High Velocity
+314	McGraw Hill Fiction Assimilated user-facing portal	Books	0	122	6438.29	122.00	6438.29	1	High Velocity
+627	Random House Non-Fiction Mandatory dynamic hardware	Books	0	122	2944.09	122.00	2944.09	1	High Velocity
+634	Adidas Team Sports Total object-oriented time-frame	Sports	0	122	40752.46	122.00	40752.46	1	High Velocity
+637	Samsung Smartphones Fundamental regional knowledgebase	Electronics	0	122	72099.18	122.00	72099.18	1	High Velocity
+690	Apple Tablets Implemented dedicated website	Electronics	0	122	76407.57	122.00	76407.57	1	High Velocity
+29	Wayfair Kitchen Configurable modular archive	Home	0	121	55425.96	121.00	55425.96	1	High Velocity
+114	H&M Womens Re-contextualized motivating help-desk	Clothing	0	121	9132.23	121.00	9132.23	1	High Velocity
+131	Random House Fiction Digitized full-range open system	Books	0	121	4026.27	121.00	4026.27	1	High Velocity
+182	Adidas Shoes Inverse bandwidth-monitored system engine	Clothing	0	121	12261.53	121.00	12261.53	1	High Velocity
+269	Under Armour Outdoor Virtual multimedia definition	Sports	0	121	24912.98	121.00	24912.98	1	High Velocity
+387	Patagonia Team Sports Multi-layered multi-state function	Sports	0	121	29697.39	121.00	29697.39	1	High Velocity
+408	Zara Womens Object-based intangible Local Area Network	Clothing	0	121	13103.78	121.00	13103.78	1	High Velocity
+604	Zara Shoes Operative homogeneous moratorium	Clothing	0	121	28359.82	121.00	28359.82	1	High Velocity
+745	Zara Mens Proactive methodical workforce	Clothing	0	121	28792.43	121.00	28792.43	1	High Velocity
+761	Patagonia Winter Secured bottom-line attitude	Sports	0	121	6457.59	121.00	6457.59	1	High Velocity
+816	Adidas Water Sports Seamless full-range hierarchy	Sports	0	121	10795.85	121.00	10795.85	1	High Velocity
+22	Microsoft Smartphones Sharable cohesive emulation	Electronics	0	120	51112.26	120.00	51112.26	1	High Velocity
+124	Patagonia Winter Quality-focused client-server protocol	Sports	0	120	42269.25	120.00	42269.25	1	High Velocity
+239	H&M Accessories Customer-focused executive implementation	Clothing	0	120	6430.10	120.00	6430.10	1	High Velocity
+257	Scholastic Non-Fiction Proactive fault-tolerant secured line	Books	0	120	6200.31	120.00	6200.31	1	High Velocity
+262	REI Fitness Stand-alone full-range orchestration	Sports	0	120	32972.50	120.00	32972.50	1	High Velocity
+381	Microsoft Smartphones Fully-configurable transitional customer loyalty	Electronics	0	120	196273.79	120.00	196273.79	1	High Velocity
+482	Wayfair Furniture Cross-group logistical Internet solution	Home	0	120	41698.94	120.00	41698.94	1	High Velocity
+706	Apple Accessories Customer-focused motivating challenge	Electronics	0	120	77486.99	120.00	77486.99	1	High Velocity
+732	H&M Womens Business-focused attitude-oriented migration	Clothing	0	120	27714.21	120.00	27714.21	1	High Velocity
+819	Nike Kids Cloned radical architecture	Clothing	0	120	18465.61	120.00	18465.61	1	High Velocity
+24	Gap Shoes Innovative web-enabled paradigm	Clothing	0	119	14141.41	119.00	14141.41	1	High Velocity
+188	Microsoft Smartphones Self-enabling upward-trending extranet	Electronics	0	119	115727.32	119.00	115727.32	1	High Velocity
+263	Nike Water Sports Expanded explicit secured line	Sports	0	119	6251.32	119.00	6251.32	1	High Velocity
+311	Patagonia Outdoor Cross-platform human-resource toolset	Sports	0	119	18393.40	119.00	18393.40	1	High Velocity
+331	Apple Accessories Vision-oriented multimedia groupware	Electronics	0	119	132235.67	119.00	132235.67	1	High Velocity
+349	McGraw Hill Fiction Proactive asymmetric project	Books	0	119	10125.25	119.00	10125.25	1	High Velocity
+498	Sony Tablets Polarized incremental firmware	Electronics	0	119	118808.81	119.00	118808.81	1	High Velocity
+528	IKEA Garden Face-to-face demand-driven migration	Home	0	119	8478.96	119.00	8478.96	1	High Velocity
+644	Zara Mens Decentralized motivating circuit	Clothing	0	119	27338.43	119.00	27338.43	1	High Velocity
+792	Home Depot Storage Integrated 24hour attitude	Home	0	119	46913.49	119.00	46913.49	1	High Velocity
+823	Sony Smartphones Streamlined coherent forecast	Electronics	0	119	189547.82	119.00	189547.82	1	High Velocity
+7	Under Armour Outdoor Customer-focused explicit hardware	Sports	0	118	14060.72	118.00	14060.72	1	High Velocity
+31	Harper Fiction Re-engineered empowering info-mediaries	Books	0	118	2761.48	118.00	2761.48	1	High Velocity
+90	Adidas Team Sports Sharable intermediate parallelism	Sports	0	118	21865.67	118.00	21865.67	1	High Velocity
+158	Scholastic Educational Virtual optimal adapter	Books	0	118	2789.07	118.00	2789.07	1	High Velocity
+166	Random House Children Persevering maximized functionalities	Books	0	118	5166.75	118.00	5166.75	1	High Velocity
+245	Scholastic Reference Universal bi-directional process improvement	Books	0	118	3181.06	118.00	3181.06	1	High Velocity
+258	Harper Non-Fiction Profit-focused foreground framework	Books	0	118	4954.17	118.00	4954.17	1	High Velocity
+389	Harper Educational Mandatory incremental architecture	Books	0	118	9162.24	118.00	9162.24	1	High Velocity
+424	Dell Laptops Cloned multimedia attitude	Electronics	0	118	66274.38	118.00	66274.38	1	High Velocity
+487	Target Furniture Organized optimal productivity	Home	0	118	28283.67	118.00	28283.67	1	High Velocity
+507	Gap Womens Visionary multi-tasking synergy	Clothing	0	118	21783.97	118.00	21783.97	1	High Velocity
+621	HP Accessories Reactive didactic infrastructure	Electronics	0	118	173406.03	118.00	173406.03	1	High Velocity
+704	HP Laptops Synchronized directional architecture	Electronics	0	118	72573.63	118.00	72573.63	1	High Velocity
+914	Wayfair Furniture Reverse-engineered upward-trending moratorium	Home	0	118	74246.80	118.00	74246.80	1	High Velocity
+942	Adidas Team Sports Synergistic next generation model	Sports	0	118	55227.91	118.00	55227.91	1	High Velocity
+25	Zara Accessories Distributed logistical Graphical User Interface	Clothing	0	117	28250.92	117.00	28250.92	1	High Velocity
+162	H&M Accessories Persistent 4thgeneration conglomeration	Clothing	0	117	7637.04	117.00	7637.04	1	High Velocity
+183	Adidas Kids Mandatory discrete hardware	Clothing	0	117	6115.80	117.00	6115.80	1	High Velocity
+222	Home Depot Furniture Upgradable responsive encryption	Home	0	117	35363.98	117.00	35363.98	1	High Velocity
+252	Under Armour Water Sports Decentralized full-range Internet solution	Sports	0	117	7691.79	117.00	7691.79	1	High Velocity
+325	Home Depot Kitchen Right-sized radical focus group	Home	0	117	28495.24	117.00	28495.24	1	High Velocity
+342	Harper Reference Proactive intermediate encryption	Books	0	117	3038.54	117.00	3038.54	1	High Velocity
+348	IKEA Garden Organized impactful model	Home	0	117	37803.72	117.00	37803.72	1	High Velocity
+357	Zara Shoes Optional local leverage	Clothing	0	117	20047.64	117.00	20047.64	1	High Velocity
+578	Scholastic Reference Multi-layered actuating extranet	Books	0	117	9705.11	117.00	9705.11	1	High Velocity
+580	Microsoft Gaming Implemented zero administration project	Electronics	0	117	98749.62	117.00	98749.62	1	High Velocity
+587	Zara Mens Distributed leadingedge Local Area Network	Clothing	0	117	15677.47	117.00	15677.47	1	High Velocity
+592	Penguin Reference Optimized needs-based protocol	Books	0	117	4787.09	117.00	4787.09	1	High Velocity
+617	REI Team Sports Programmable modular project	Sports	0	117	6707.86	117.00	6707.86	1	High Velocity
+681	Home Depot Furniture Seamless modular Graphic Interface	Home	0	117	17510.33	117.00	17510.33	1	High Velocity
+848	Sony Tablets Switchable next generation database	Electronics	0	117	133106.42	117.00	133106.42	1	High Velocity
+854	Nike Shoes Digitized full-range function	Clothing	0	117	21841.84	117.00	21841.84	1	High Velocity
+950	Dell Accessories Synergistic value-added success	Electronics	0	117	86777.29	117.00	86777.29	1	High Velocity
+28	IKEA Storage Fully-configurable human-resource instruction set	Home	0	116	54035.41	116.00	54035.41	1	High Velocity
+106	Zara Kids Horizontal fault-tolerant website	Clothing	0	116	30415.27	116.00	30415.27	1	High Velocity
+123	Random House Children Proactive systematic secured line	Books	0	116	4038.51	116.00	4038.51	1	High Velocity
+153	Patagonia Outdoor Ameliorated background analyzer	Sports	0	116	30612.28	116.00	30612.28	1	High Velocity
+191	Zara Womens Cross-group next generation focus group	Clothing	0	116	16859.40	116.00	16859.40	1	High Velocity
+486	IKEA Kitchen Synergistic optimizing paradigm	Home	0	116	30285.55	116.00	30285.55	1	High Velocity
+589	Zara Womens Devolved 4thgeneration approach	Clothing	0	116	25243.09	116.00	25243.09	1	High Velocity
+653	Zara Shoes Down-sized foreground hub	Clothing	0	116	21813.34	116.00	21813.34	1	High Velocity
+773	Adidas Team Sports Seamless fault-tolerant array	Sports	0	116	34545.04	116.00	34545.04	1	High Velocity
+822	Random House Fiction Business-focused responsive knowledgebase	Books	0	116	6169.11	116.00	6169.11	1	High Velocity
+841	Adidas Accessories Organized composite attitude	Clothing	0	116	15504.77	116.00	15504.77	1	High Velocity
+872	Target Storage Secured dynamic open system	Home	0	116	59971.89	116.00	59971.89	1	High Velocity
+953	Dell Gaming Intuitive multi-state infrastructure	Electronics	0	116	60642.17	116.00	60642.17	1	High Velocity
+970	Patagonia Fitness Synergized zero tolerance implementation	Sports	0	116	9606.51	116.00	9606.51	1	High Velocity
+47	Random House Educational Open-source analyzing leverage	Books	0	115	1295.96	115.00	1295.96	1	High Velocity
+51	Patagonia Fitness Phased high-level projection	Sports	0	115	24173.67	115.00	24173.67	1	High Velocity
+93	West Elm Kitchen Advanced context-sensitive Graphical User Interface	Home	0	115	28100.80	115.00	28100.80	1	High Velocity
+103	Samsung Smartphones Self-enabling encompassing portal	Electronics	0	115	78902.95	115.00	78902.95	1	High Velocity
+125	IKEA Furniture Robust multimedia extranet	Home	0	115	8014.33	115.00	8014.33	1	High Velocity
+142	Apple Accessories Ergonomic actuating Graphic Interface	Electronics	0	115	9213.20	115.00	9213.20	1	High Velocity
+174	Patagonia Fitness Face-to-face interactive data-warehouse	Sports	0	115	18592.24	115.00	18592.24	1	High Velocity
+178	Nike Outdoor Function-based scalable algorithm	Sports	0	115	29347.78	115.00	29347.78	1	High Velocity
+207	Random House Educational Intuitive actuating instruction set	Books	0	115	8568.61	115.00	8568.61	1	High Velocity
+219	Patagonia Team Sports Diverse reciprocal monitoring	Sports	0	115	27624.95	115.00	27624.95	1	High Velocity
+238	REI Winter Multi-lateral logistical synergy	Sports	0	115	26517.59	115.00	26517.59	1	High Velocity
+328	Patagonia Winter Reactive client-driven productivity	Sports	0	115	36944.19	115.00	36944.19	1	High Velocity
+329	REI Water Sports Extended radical capacity	Sports	0	115	23957.75	115.00	23957.75	1	High Velocity
+400	Gap Shoes Innovative well-modulated knowledge user	Clothing	0	115	24610.24	115.00	24610.24	1	High Velocity
+450	Nike Water Sports Reduced systemic superstructure	Sports	0	115	37096.91	115.00	37096.91	1	High Velocity
+452	Gap Accessories Adaptive solution-oriented model	Clothing	0	115	16282.42	115.00	16282.42	1	High Velocity
+719	Adidas Team Sports Centralized encompassing initiative	Sports	0	115	8651.43	115.00	8651.43	1	High Velocity
+722	Gap Mens Universal responsive approach	Clothing	0	115	15369.40	115.00	15369.40	1	High Velocity
+738	REI Winter Expanded upward-trending installation	Sports	0	115	40088.86	115.00	40088.86	1	High Velocity
+744	HP Tablets Right-sized fault-tolerant concept	Electronics	0	115	98320.76	115.00	98320.76	1	High Velocity
+755	Adidas Fitness Reactive hybrid groupware	Sports	0	115	18549.67	115.00	18549.67	1	High Velocity
+789	Random House Non-Fiction Programmable global circuit	Books	0	115	8071.26	115.00	8071.26	1	High Velocity
+801	Apple Gaming Open-architected fault-tolerant capacity	Electronics	0	115	135245.39	115.00	135245.39	1	High Velocity
+912	West Elm Kitchen Vision-oriented encompassing conglomeration	Home	0	115	12988.46	115.00	12988.46	1	High Velocity
+947	Under Armour Team Sports Fundamental zero-defect conglomeration	Sports	0	115	31535.06	115.00	31535.06	1	High Velocity
+951	Scholastic Educational Digitized zero-defect encoding	Books	0	115	6212.99	115.00	6212.99	1	High Velocity
+971	Apple Laptops Inverse system-worthy synergy	Electronics	0	115	69530.38	115.00	69530.38	1	High Velocity
+996	Scholastic Reference Optimized secondary project	Books	0	115	6523.38	115.00	6523.38	1	High Velocity
+30	Nike Fitness Profit-focused local migration	Sports	0	114	4454.11	114.00	4454.11	1	High Velocity
+102	Gap Womens Quality-focused eco-centric hardware	Clothing	0	114	8529.12	114.00	8529.12	1	High Velocity
+118	Penguin Fiction Seamless explicit challenge	Books	0	114	2083.15	114.00	2083.15	1	High Velocity
+323	Adidas Accessories Multi-layered multi-tasking contingency	Clothing	0	114	4946.43	114.00	4946.43	1	High Velocity
+354	Sony Gaming Pre-emptive human-resource synergy	Electronics	0	114	25349.47	114.00	25349.47	1	High Velocity
+402	Wayfair Storage Integrated asynchronous algorithm	Home	0	114	22982.03	114.00	22982.03	1	High Velocity
+492	Adidas Womens Future-proofed homogeneous frame	Clothing	0	114	26385.08	114.00	26385.08	1	High Velocity
+657	Apple Tablets Synergistic secondary solution	Electronics	0	114	44787.79	114.00	44787.79	2	High Velocity
+664	Sony Laptops Virtual bi-directional utilization	Electronics	0	114	108036.84	114.00	108036.84	2	High Velocity
+707	Adidas Shoes Advanced zero-defect parallelism	Clothing	0	114	12394.86	114.00	12394.86	2	High Velocity
+714	Zara Kids Compatible tangible task-force	Clothing	0	114	35990.73	114.00	35990.73	2	High Velocity
+726	West Elm Garden Universal mobile focus group	Home	0	114	53612.22	114.00	53612.22	2	High Velocity
+750	Nike Water Sports Operative dynamic extranet	Sports	0	114	39003.25	114.00	39003.25	2	High Velocity
+774	Home Depot Furniture Realigned attitude-oriented firmware	Home	0	114	42012.04	114.00	42012.04	2	High Velocity
+871	Sony Tablets Front-line zero administration capacity	Electronics	0	114	165519.90	114.00	165519.90	2	High Velocity
+882	Samsung Gaming Future-proofed explicit artificial intelligence	Electronics	0	114	34712.72	114.00	34712.72	2	High Velocity
+906	Zara Shoes Reduced explicit matrices	Clothing	0	114	33854.73	114.00	33854.73	2	High Velocity
+937	Scholastic Children Diverse 5thgeneration middleware	Books	0	114	5710.61	114.00	5710.61	2	High Velocity
+985	Penguin Non-Fiction Exclusive 5thgeneration workforce	Books	0	114	3875.63	114.00	3875.63	2	High Velocity
+992	Harper Non-Fiction Innovative discrete support	Books	0	114	2985.99	114.00	2985.99	2	High Velocity
+3	Patagonia Water Sports Reduced composite firmware	Sports	0	113	34200.63	113.00	34200.63	2	High Velocity
+108	Zara Mens Function-based disintermediate database	Clothing	0	113	16218.74	113.00	16218.74	2	High Velocity
+150	Apple Tablets Decentralized content-based encoding	Electronics	0	113	107038.25	113.00	107038.25	2	High Velocity
+163	REI Team Sports Upgradable impactful customer loyalty	Sports	0	113	14610.00	113.00	14610.00	2	High Velocity
+186	Patagonia Outdoor Polarized fault-tolerant budgetary management	Sports	0	113	9897.94	113.00	9897.94	2	High Velocity
+199	Patagonia Outdoor Organic bifurcated pricing structure	Sports	0	113	6764.25	113.00	6764.25	2	High Velocity
+254	Samsung Accessories Business-focused multimedia matrices	Electronics	0	113	133758.82	113.00	133758.82	2	High Velocity
+276	Penguin Educational Integrated explicit Internet solution	Books	0	113	2023.43	113.00	2023.43	2	High Velocity
+295	Adidas Outdoor Team-oriented web-enabled encoding	Sports	0	113	8880.27	113.00	8880.27	2	High Velocity
+313	Levis Kids Synchronized zero tolerance software	Clothing	0	113	17003.01	113.00	17003.01	2	High Velocity
+347	Zara Shoes Upgradable cohesive function	Clothing	0	113	20712.77	113.00	20712.77	2	High Velocity
+403	Microsoft Smartphones Robust mission-critical methodology	Electronics	0	113	55352.00	113.00	55352.00	2	High Velocity
+428	West Elm Furniture Implemented didactic policy	Home	0	113	23467.80	113.00	23467.80	2	High Velocity
+495	Home Depot Garden Proactive attitude-oriented superstructure	Home	0	113	10273.47	113.00	10273.47	2	High Velocity
+496	H&M Shoes Quality-focused non-volatile firmware	Clothing	0	113	2409.79	113.00	2409.79	2	High Velocity
+520	Sony Laptops Monitored system-worthy emulation	Electronics	0	113	73827.14	113.00	73827.14	2	High Velocity
+542	Microsoft Laptops Robust user-facing time-frame	Electronics	0	113	117076.47	113.00	117076.47	2	High Velocity
+544	IKEA Storage Organic uniform migration	Home	0	113	63957.87	113.00	63957.87	2	High Velocity
+594	Levis Womens Versatile empowering productivity	Clothing	0	113	26893.66	113.00	26893.66	2	High Velocity
+632	Levis Mens Grass-roots analyzing focus group	Clothing	0	113	4930.91	113.00	4930.91	2	High Velocity
+654	Random House Reference Down-sized stable pricing structure	Books	0	113	7918.92	113.00	7918.92	2	High Velocity
+672	IKEA Garden Inverse intermediate software	Home	0	113	14552.27	113.00	14552.27	2	High Velocity
+736	HP Laptops Horizontal user-facing middleware	Electronics	0	113	33939.79	113.00	33939.79	2	High Velocity
+779	McGraw Hill Reference Ergonomic multi-tasking definition	Books	0	113	7577.51	113.00	7577.51	2	High Velocity
+780	Levis Kids Sharable even-keeled help-desk	Clothing	0	113	4085.11	113.00	4085.11	2	High Velocity
+863	Nike Winter Object-based encompassing parallelism	Sports	0	113	28715.92	113.00	28715.92	2	High Velocity
+885	Levis Kids Down-sized 24hour interface	Clothing	0	113	8025.67	113.00	8025.67	2	High Velocity
+939	West Elm Decor Reactive value-added artificial intelligence	Home	0	113	40599.38	113.00	40599.38	2	High Velocity
+981	Nike Shoes Programmable user-facing Graphical User Interface	Clothing	0	113	3864.59	113.00	3864.59	2	High Velocity
+19	H&M Accessories Vision-oriented regional algorithm	Clothing	0	112	25308.01	112.00	25308.01	2	High Velocity
+40	Apple Gaming Operative well-modulated success	Electronics	0	112	117144.75	112.00	117144.75	2	High Velocity
+49	Random House Fiction Optimized coherent conglomeration	Books	0	112	2282.55	112.00	2282.55	2	High Velocity
+147	Nike Womens Cross-group optimizing service-desk	Clothing	0	112	26832.00	112.00	26832.00	2	High Velocity
+168	Random House Non-Fiction Expanded optimal interface	Books	0	112	4898.86	112.00	4898.86	2	High Velocity
+203	REI Fitness Self-enabling zero-defect hierarchy	Sports	0	112	27430.98	112.00	27430.98	2	High Velocity
+259	Target Furniture Mandatory 24/7 system engine	Home	0	112	65891.12	112.00	65891.12	2	High Velocity
+266	Home Depot Kitchen Distributed local intranet	Home	0	112	43474.61	112.00	43474.61	2	High Velocity
+272	Adidas Winter Cross-platform contextually-based solution	Sports	0	112	20002.70	112.00	20002.70	2	High Velocity
+292	Microsoft Smartphones Mandatory demand-driven framework	Electronics	0	112	121664.35	112.00	121664.35	2	High Velocity
+294	Sony Tablets Grass-roots logistical adapter	Electronics	0	112	97065.75	112.00	97065.75	2	High Velocity
+322	Levis Womens Grass-roots human-resource Graphic Interface	Clothing	0	112	12270.56	112.00	12270.56	2	High Velocity
+384	Sony Laptops Secured bottom-line projection	Electronics	0	112	155942.51	112.00	155942.51	2	High Velocity
+436	H&M Accessories Secured solution-oriented emulation	Clothing	0	112	34393.11	112.00	34393.11	2	High Velocity
+515	Microsoft Accessories User-friendly disintermediate matrices	Electronics	0	112	110742.22	112.00	110742.22	2	High Velocity
+539	Nike Shoes Open-source 6thgeneration capacity	Clothing	0	112	27854.17	112.00	27854.17	2	High Velocity
+648	Wayfair Furniture User-centric high-level groupware	Home	0	112	45368.85	112.00	45368.85	2	High Velocity
+679	Patagonia Outdoor Polarized demand-driven matrices	Sports	0	112	19950.62	112.00	19950.62	2	High Velocity
+730	Target Garden Managed logistical complexity	Home	0	112	21300.73	112.00	21300.73	2	High Velocity
+731	Dell Tablets Cloned zero-defect initiative	Electronics	0	112	77991.43	112.00	77991.43	2	High Velocity
+737	Under Armour Outdoor Vision-oriented client-server projection	Sports	0	112	17618.89	112.00	17618.89	2	High Velocity
+794	Adidas Shoes Decentralized executive middleware	Clothing	0	112	16907.86	112.00	16907.86	2	High Velocity
+832	Harper Non-Fiction Customizable static benchmark	Books	0	112	2991.35	112.00	2991.35	2	High Velocity
+861	Microsoft Gaming Organized disintermediate Local Area Network	Electronics	0	112	11631.47	112.00	11631.47	2	High Velocity
+867	Wayfair Furniture Secured next generation concept	Home	0	112	66548.95	112.00	66548.95	2	High Velocity
+898	Levis Mens Focused fault-tolerant contingency	Clothing	0	112	1551.27	112.00	1551.27	2	High Velocity
+958	Adidas Fitness Inverse upward-trending neural-net	Sports	0	112	25536.88	112.00	25536.88	2	High Velocity
+41	Adidas Team Sports Exclusive impactful intranet	Sports	0	111	38653.67	111.00	38653.67	2	High Velocity
+56	HP Accessories Adaptive intermediate forecast	Electronics	0	111	174969.04	111.00	174969.04	2	High Velocity
+71	Random House Non-Fiction Optional clear-thinking array	Books	0	111	5243.33	111.00	5243.33	2	High Velocity
+77	Target Kitchen Synergized static website	Home	0	111	24137.83	111.00	24137.83	2	High Velocity
+84	Adidas Water Sports Proactive motivating architecture	Sports	0	111	35461.30	111.00	35461.30	2	High Velocity
+112	Wayfair Decor Reduced 4thgeneration solution	Home	0	111	13334.23	111.00	13334.23	2	High Velocity
+179	IKEA Garden Self-enabling national workforce	Home	0	111	13201.54	111.00	13201.54	2	High Velocity
+290	Target Furniture Compatible global hub	Home	0	111	11834.47	111.00	11834.47	2	High Velocity
+364	Samsung Smartphones Monitored transitional adapter	Electronics	0	111	125189.80	111.00	125189.80	2	High Velocity
+434	McGraw Hill Children Pre-emptive local functionalities	Books	0	111	3783.51	111.00	3783.51	2	High Velocity
+462	Gap Shoes Centralized contextually-based methodology	Clothing	0	111	25167.80	111.00	25167.80	2	High Velocity
+489	Under Armour Water Sports Profound mobile concept	Sports	0	111	24633.78	111.00	24633.78	2	High Velocity
+503	REI Team Sports Multi-lateral reciprocal flexibility	Sports	0	111	25892.10	111.00	25892.10	2	High Velocity
+524	Zara Accessories Stand-alone explicit open system	Clothing	0	111	9398.68	111.00	9398.68	2	High Velocity
+530	Nike Accessories Compatible 4thgeneration interface	Clothing	0	111	20266.49	111.00	20266.49	2	High Velocity
+572	Dell Gaming Profit-focused solution-oriented firmware	Electronics	0	111	141030.11	111.00	141030.11	2	High Velocity
+599	IKEA Storage Optional bandwidth-monitored strategy	Home	0	111	3980.69	111.00	3980.69	2	High Velocity
+614	Dell Gaming Enterprise-wide executive capacity	Electronics	0	111	114550.79	111.00	114550.79	2	High Velocity
+636	Adidas Team Sports Organic impactful analyzer	Sports	0	111	14565.62	111.00	14565.62	2	High Velocity
+686	HP Gaming Pre-emptive solution-oriented algorithm	Electronics	0	111	83446.05	111.00	83446.05	2	High Velocity
+723	Adidas Water Sports Monitored demand-driven workforce	Sports	0	111	40190.59	111.00	40190.59	2	High Velocity
+733	Gap Womens Centralized composite attitude	Clothing	0	111	15705.38	111.00	15705.38	2	High Velocity
+883	IKEA Garden Down-sized systematic migration	Home	0	111	42589.88	111.00	42589.88	2	High Velocity
+901	Scholastic Educational Cloned mobile monitoring	Books	0	111	3431.73	111.00	3431.73	2	High Velocity
+908	McGraw Hill Educational Down-sized neutral open architecture	Books	0	111	2696.16	111.00	2696.16	2	High Velocity
+946	Apple Smartphones Object-based multi-state info-mediaries	Electronics	0	111	82283.95	111.00	82283.95	2	High Velocity
+956	Wayfair Kitchen Decentralized executive archive	Home	0	111	28534.65	111.00	28534.65	2	High Velocity
+982	H&M Womens Future-proofed grid-enabled software	Clothing	0	111	11373.22	111.00	11373.22	2	High Velocity
+991	Microsoft Smartphones User-centric 6thgeneration alliance	Electronics	0	111	162793.88	111.00	162793.88	2	High Velocity
+20	Nike Fitness Assimilated methodical framework	Sports	0	110	8446.18	110.00	8446.18	2	High Velocity
+83	Patagonia Winter Synchronized full-range pricing structure	Sports	0	110	14390.02	110.00	14390.02	2	High Velocity
+96	Home Depot Storage Grass-roots logistical protocol	Home	0	110	7581.06	110.00	7581.06	2	High Velocity
+120	McGraw Hill Reference Proactive asynchronous encryption	Books	0	110	4451.28	110.00	4451.28	2	High Velocity
+130	REI Outdoor Diverse real-time portal	Sports	0	110	9626.81	110.00	9626.81	2	High Velocity
+134	Sony Accessories Implemented next generation utilization	Electronics	0	110	118250.09	110.00	118250.09	2	High Velocity
+145	Harper Educational Robust needs-based portal	Books	0	110	3438.33	110.00	3438.33	2	High Velocity
+169	Sony Smartphones Expanded stable methodology	Electronics	0	110	71336.79	110.00	71336.79	2	High Velocity
+208	Home Depot Storage Diverse modular support	Home	0	110	27597.16	110.00	27597.16	2	High Velocity
+215	Harper Non-Fiction Organized content-based array	Books	0	110	6616.47	110.00	6616.47	2	High Velocity
+237	Nike Water Sports Centralized optimizing toolset	Sports	0	110	32982.93	110.00	32982.93	2	High Velocity
+300	Target Storage Innovative next generation architecture	Home	0	110	10813.02	110.00	10813.02	2	High Velocity
+321	Penguin Reference Enterprise-wide user-facing artificial intelligence	Books	0	110	6490.65	110.00	6490.65	2	High Velocity
+376	Under Armour Water Sports Organic 24hour forecast	Sports	0	110	12879.30	110.00	12879.30	2	High Velocity
+412	Scholastic Reference Phased grid-enabled portal	Books	0	110	7452.16	110.00	7452.16	2	High Velocity
+419	Nike Outdoor Networked national Internet solution	Sports	0	110	13968.99	110.00	13968.99	2	High Velocity
+645	Harper Non-Fiction Synergistic empowering challenge	Books	0	110	4626.85	110.00	4626.85	2	High Velocity
+674	West Elm Garden Managed non-volatile info-mediaries	Home	0	110	50370.70	110.00	50370.70	2	High Velocity
+680	Adidas Fitness Networked didactic knowledgebase	Sports	0	110	30274.57	110.00	30274.57	2	High Velocity
+701	Under Armour Water Sports Visionary zero administration frame	Sports	0	110	23272.38	110.00	23272.38	2	High Velocity
+751	Patagonia Fitness Multi-layered fault-tolerant functionalities	Sports	0	110	29162.02	110.00	29162.02	2	High Velocity
+829	West Elm Furniture Decentralized local toolset	Home	0	110	57400.61	110.00	57400.61	2	High Velocity
+842	Dell Accessories Multi-tiered methodical knowledgebase	Electronics	0	110	36329.00	110.00	36329.00	2	High Velocity
+849	Scholastic Non-Fiction Seamless even-keeled project	Books	0	110	4806.27	110.00	4806.27	2	High Velocity
+924	Target Kitchen Synchronized content-based capability	Home	0	110	40443.75	110.00	40443.75	2	High Velocity
+962	Nike Mens Customizable discrete installation	Clothing	0	110	19776.33	110.00	19776.33	2	High Velocity
+997	Apple Accessories Extended optimizing conglomeration	Electronics	0	110	171606.43	110.00	171606.43	2	High Velocity
+67	Microsoft Accessories Self-enabling tangible success	Electronics	0	109	87270.11	109.00	87270.11	2	High Velocity
+78	Adidas Water Sports Face-to-face local help-desk	Sports	0	109	6867.47	109.00	6867.47	2	High Velocity
+171	Levis Mens Vision-oriented encompassing moratorium	Clothing	0	109	2726.98	109.00	2726.98	2	High Velocity
+193	H&M Accessories Persevering web-enabled leverage	Clothing	0	109	19252.85	109.00	19252.85	2	High Velocity
+209	Levis Accessories Synergized dedicated Local Area Network	Clothing	0	109	26406.79	109.00	26406.79	2	High Velocity
+217	Apple Gaming De-engineered client-driven model	Electronics	0	109	173657.84	109.00	173657.84	2	High Velocity
+356	HP Laptops Function-based homogeneous encryption	Electronics	0	109	42903.61	109.00	42903.61	2	High Velocity
+422	Gap Mens Open-source client-server portal	Clothing	0	109	24837.92	109.00	24837.92	2	High Velocity
+442	Scholastic Fiction Focused context-sensitive orchestration	Books	0	109	4831.09	109.00	4831.09	2	High Velocity
+460	Levis Womens Centralized non-volatile migration	Clothing	0	109	10563.79	109.00	10563.79	2	High Velocity
+513	H&M Shoes Multi-channeled discrete framework	Clothing	0	109	11454.80	109.00	11454.80	2	High Velocity
+550	Nike Shoes Inverse upward-trending Local Area Network	Clothing	0	109	27437.26	109.00	27437.26	2	High Velocity
+556	Penguin Educational Multi-layered next generation archive	Books	0	109	2590.32	109.00	2590.32	2	High Velocity
+565	McGraw Hill Non-Fiction Exclusive methodical moderator	Books	0	109	3824.65	109.00	3824.65	2	High Velocity
+683	Adidas Fitness Universal heuristic complexity	Sports	0	109	24214.29	109.00	24214.29	2	High Velocity
+695	McGraw Hill Educational Multi-lateral needs-based monitoring	Books	0	109	5666.72	109.00	5666.72	2	High Velocity
+783	IKEA Storage Fundamental intangible monitoring	Home	0	109	37817.92	109.00	37817.92	2	High Velocity
+787	Zara Mens Cloned systemic challenge	Clothing	0	109	10077.08	109.00	10077.08	2	High Velocity
+798	Gap Accessories Right-sized discrete intranet	Clothing	0	109	17965.90	109.00	17965.90	2	High Velocity
+851	Adidas Mens Synergistic multi-tasking toolset	Clothing	0	109	15877.86	109.00	15877.86	2	High Velocity
+875	Target Furniture Devolved asynchronous protocol	Home	0	109	68687.81	109.00	68687.81	2	High Velocity
+888	Target Storage Cross-group uniform matrices	Home	0	109	45250.74	109.00	45250.74	2	High Velocity
+915	Adidas Mens Ameliorated bifurcated software	Clothing	0	109	26410.69	109.00	26410.69	2	High Velocity
+9	Under Armour Fitness Reduced impactful hardware	Sports	0	108	4488.77	108.00	4488.77	2	High Velocity
+27	Home Depot Furniture Balanced web-enabled installation	Home	0	108	53237.49	108.00	53237.49	2	High Velocity
+46	Levis Shoes Mandatory dedicated leverage	Clothing	0	108	2269.22	108.00	2269.22	2	High Velocity
+159	Scholastic Children User-centric national productivity	Books	0	108	6592.04	108.00	6592.04	2	High Velocity
+220	REI Team Sports User-friendly user-facing matrix	Sports	0	108	30125.17	108.00	30125.17	2	High Velocity
+235	Penguin Reference Enterprise-wide mission-critical matrix	Books	0	108	8696.35	108.00	8696.35	2	High Velocity
+242	REI Water Sports Configurable neutral knowledge user	Sports	0	108	37275.24	108.00	37275.24	2	High Velocity
+277	Samsung Laptops Synchronized client-server solution	Electronics	0	108	88725.76	108.00	88725.76	2	High Velocity
+318	Apple Laptops Intuitive cohesive budgetary management	Electronics	0	108	50603.97	108.00	50603.97	2	High Velocity
+326	Patagonia Water Sports Organized 3rdgeneration definition	Sports	0	108	22646.21	108.00	22646.21	2	High Velocity
+362	Target Kitchen Programmable didactic ability	Home	0	108	61718.11	108.00	61718.11	2	High Velocity
+382	Zara Mens Public-key mobile flexibility	Clothing	0	108	14620.26	108.00	14620.26	2	High Velocity
+410	Random House Reference Realigned solution-oriented capability	Books	0	108	3747.07	108.00	3747.07	2	High Velocity
+417	Gap Mens Switchable user-facing application	Clothing	0	108	12422.39	108.00	12422.39	2	High Velocity
+420	Scholastic Children Mandatory systematic secured line	Books	0	108	6626.56	108.00	6626.56	2	High Velocity
+461	Target Decor Managed responsive complexity	Home	0	108	31124.89	108.00	31124.89	2	High Velocity
+491	Adidas Shoes Sharable motivating knowledgebase	Clothing	0	108	29124.54	108.00	29124.54	2	High Velocity
+494	Samsung Smartphones Versatile 3rdgeneration workforce	Electronics	0	108	73045.38	108.00	73045.38	2	High Velocity
+499	Under Armour Water Sports Polarized logistical architecture	Sports	0	108	15518.66	108.00	15518.66	2	High Velocity
+535	Patagonia Team Sports Organized clear-thinking alliance	Sports	0	108	3720.04	108.00	3720.04	2	High Velocity
+579	Dell Gaming Organic secondary flexibility	Electronics	0	108	174106.28	108.00	174106.28	2	High Velocity
+667	Nike Water Sports Ergonomic national productivity	Sports	0	108	28079.94	108.00	28079.94	2	High Velocity
+729	Random House Reference Distributed optimal parallelism	Books	0	108	8495.75	108.00	8495.75	2	High Velocity
+752	Zara Shoes Open-source foreground artificial intelligence	Clothing	0	108	20855.16	108.00	20855.16	2	High Velocity
+781	Nike Winter Function-based clear-thinking attitude	Sports	0	108	29416.31	108.00	29416.31	2	High Velocity
+812	Nike Team Sports Organic motivating focus group	Sports	0	108	25303.47	108.00	25303.47	2	High Velocity
+834	Scholastic Children Profound regional knowledge user	Books	0	108	5983.96	108.00	5983.96	2	High Velocity
+948	Random House Educational Focused fault-tolerant product	Books	0	108	6598.85	108.00	6598.85	2	High Velocity
+976	Levis Kids De-engineered optimizing portal	Clothing	0	108	22456.19	108.00	22456.19	2	High Velocity
+980	REI Outdoor Persistent optimizing methodology	Sports	0	108	14491.54	108.00	14491.54	2	High Velocity
+993	McGraw Hill Fiction Multi-channeled mission-critical emulation	Books	0	108	6477.65	108.00	6477.65	2	High Velocity
+8	Apple Gaming Expanded 24/7 process improvement	Electronics	0	107	165135.21	107.00	165135.21	2	High Velocity
+15	Nike Mens Reactive holistic alliance	Clothing	0	107	2375.44	107.00	2375.44	2	High Velocity
+58	Microsoft Smartphones Compatible value-added structure	Electronics	0	107	91130.89	107.00	91130.89	2	High Velocity
+60	Levis Mens Switchable client-driven superstructure	Clothing	0	107	20180.53	107.00	20180.53	2	High Velocity
+81	West Elm Furniture Progressive context-sensitive product	Home	0	107	39854.80	107.00	39854.80	2	High Velocity
+116	Nike Winter Polarized dynamic Internet solution	Sports	0	107	18434.95	107.00	18434.95	2	High Velocity
+143	Microsoft Gaming Innovative interactive standardization	Electronics	0	107	55306.98	107.00	55306.98	2	High Velocity
+170	Home Depot Storage User-centric methodical capacity	Home	0	107	36266.24	107.00	36266.24	2	High Velocity
+202	West Elm Decor Decentralized static monitoring	Home	0	107	39175.77	107.00	39175.77	2	High Velocity
+226	Adidas Accessories Universal 4thgeneration throughput	Clothing	0	107	22490.23	107.00	22490.23	2	High Velocity
+251	Gap Accessories Versatile demand-driven portal	Clothing	0	107	22037.80	107.00	22037.80	2	High Velocity
+265	Dell Smartphones Networked user-facing model	Electronics	0	107	64812.36	107.00	64812.36	2	High Velocity
+283	West Elm Garden Multi-lateral context-sensitive utilization	Home	0	107	50219.42	107.00	50219.42	2	High Velocity
+312	H&M Kids Synergistic bottom-line artificial intelligence	Clothing	0	107	5472.35	107.00	5472.35	2	High Velocity
+320	Zara Womens Cross-platform heuristic portal	Clothing	0	107	12269.17	107.00	12269.17	2	High Velocity
+366	Samsung Smartphones Stand-alone 5thgeneration paradigm	Electronics	0	107	31302.55	107.00	31302.55	2	High Velocity
+367	Penguin Educational Business-focused asynchronous artificial intelligence	Books	0	107	7270.37	107.00	7270.37	2	High Velocity
+421	Nike Accessories Integrated motivating infrastructure	Clothing	0	107	12786.62	107.00	12786.62	2	High Velocity
+429	McGraw Hill Non-Fiction Team-oriented discrete functionalities	Books	0	107	3884.66	107.00	3884.66	2	High Velocity
+432	Adidas Winter Automated multi-tasking database	Sports	0	107	30312.37	107.00	30312.37	2	High Velocity
+464	Penguin Reference Exclusive clear-thinking orchestration	Books	0	107	2915.96	107.00	2915.96	2	High Velocity
+623	Random House Reference Vision-oriented exuding artificial intelligence	Books	0	107	4290.11	107.00	4290.11	3	High Velocity
+711	Microsoft Laptops Persistent neutral projection	Electronics	0	107	11277.33	107.00	11277.33	3	High Velocity
+717	Patagonia Outdoor Front-line optimal benchmark	Sports	0	107	6913.44	107.00	6913.44	3	High Velocity
+742	Sony Gaming Digitized grid-enabled pricing structure	Electronics	0	107	65348.12	107.00	65348.12	3	High Velocity
+743	Gap Shoes Profound directional website	Clothing	0	107	3450.70	107.00	3450.70	3	High Velocity
+775	Random House Non-Fiction Triple-buffered fresh-thinking capacity	Books	0	107	6905.80	107.00	6905.80	3	High Velocity
+818	Random House Children Cross-group didactic hardware	Books	0	107	1423.64	107.00	1423.64	3	High Velocity
+830	Scholastic Reference Cross-group composite Graphical User Interface	Books	0	107	1758.87	107.00	1758.87	3	High Velocity
+959	HP Gaming Right-sized intermediate info-mediaries	Electronics	0	107	21096.25	107.00	21096.25	3	High Velocity
+961	Wayfair Furniture Synergistic intangible focus group	Home	0	107	10678.13	107.00	10678.13	3	High Velocity
+986	Samsung Smartphones Sharable homogeneous encryption	Electronics	0	107	131514.50	107.00	131514.50	3	High Velocity
+14	Zara Shoes Proactive homogeneous portal	Clothing	0	106	7711.27	106.00	7711.27	3	High Velocity
+59	Zara Womens Focused composite application	Clothing	0	106	17078.85	106.00	17078.85	3	High Velocity
+128	H&M Shoes Profound empowering pricing structure	Clothing	0	106	12353.09	106.00	12353.09	3	High Velocity
+144	HP Laptops Ergonomic radical open system	Electronics	0	106	164165.25	106.00	164165.25	3	High Velocity
+149	Nike Water Sports Multi-channeled multi-tasking capability	Sports	0	106	26308.35	106.00	26308.35	3	High Velocity
+165	Dell Gaming Polarized web-enabled archive	Electronics	0	106	107340.90	106.00	107340.90	3	High Velocity
+288	Penguin Reference Programmable human-resource toolset	Books	0	106	5802.14	106.00	5802.14	3	High Velocity
+380	McGraw Hill Non-Fiction Synchronized hybrid core	Books	0	106	3723.88	106.00	3723.88	3	High Velocity
+401	Nike Fitness Programmable well-modulated portal	Sports	0	106	18604.64	106.00	18604.64	3	High Velocity
+425	REI Team Sports Managed tangible neural-net	Sports	0	106	41440.66	106.00	41440.66	3	High Velocity
+433	Adidas Fitness Synchronized responsive leverage	Sports	0	106	7180.73	106.00	7180.73	3	High Velocity
+435	Patagonia Team Sports Inverse leadingedge orchestration	Sports	0	106	43399.60	106.00	43399.60	3	High Velocity
+454	Apple Smartphones Future-proofed uniform architecture	Electronics	0	106	165461.21	106.00	165461.21	3	High Velocity
+457	Wayfair Decor Cloned system-worthy functionalities	Home	0	106	40664.51	106.00	40664.51	3	High Velocity
+459	Microsoft Accessories Monitored optimizing conglomeration	Electronics	0	106	145931.90	106.00	145931.90	3	High Velocity
+471	IKEA Kitchen Business-focused methodical projection	Home	0	106	11011.73	106.00	11011.73	3	High Velocity
+521	Sony Gaming Cross-platform eco-centric strategy	Electronics	0	106	53283.81	106.00	53283.81	3	High Velocity
+546	Harper Educational User-centric even-keeled emulation	Books	0	106	2589.76	106.00	2589.76	3	High Velocity
+620	Samsung Gaming Grass-roots mission-critical installation	Electronics	0	106	170249.48	106.00	170249.48	3	High Velocity
+652	Microsoft Smartphones Face-to-face radical leverage	Electronics	0	106	173018.87	106.00	173018.87	3	High Velocity
+677	Samsung Gaming Public-key full-range time-frame	Electronics	0	106	42950.18	106.00	42950.18	3	High Velocity
+713	Target Garden Ergonomic system-worthy methodology	Home	0	106	3873.35	106.00	3873.35	3	High Velocity
+786	Patagonia Team Sports Face-to-face optimizing software	Sports	0	106	14297.76	106.00	14297.76	3	High Velocity
+793	Scholastic Children Cross-group bottom-line methodology	Books	0	106	2336.94	106.00	2336.94	3	High Velocity
+796	McGraw Hill Non-Fiction Distributed leadingedge software	Books	0	106	5432.87	106.00	5432.87	3	High Velocity
+933	Sony Smartphones Total encompassing model	Electronics	0	106	112220.84	106.00	112220.84	3	High Velocity
+963	Adidas Outdoor Phased mobile system engine	Sports	0	106	48029.41	106.00	48029.41	3	High Velocity
+967	West Elm Kitchen Vision-oriented directional matrix	Home	0	106	32877.29	106.00	32877.29	3	High Velocity
+161	HP Laptops Upgradable grid-enabled open system	Electronics	0	105	94368.04	105.00	94368.04	3	High Velocity
+181	IKEA Kitchen Open-source non-volatile policy	Home	0	105	21344.90	105.00	21344.90	3	High Velocity
+197	Wayfair Furniture Diverse 4thgeneration pricing structure	Home	0	105	6590.94	105.00	6590.94	3	High Velocity
+243	Dell Accessories Synergistic static open system	Electronics	0	105	20278.19	105.00	20278.19	3	High Velocity
+308	Zara Womens Object-based maximized contingency	Clothing	0	105	25015.01	105.00	25015.01	3	High Velocity
+316	REI Winter Extended methodical access	Sports	0	105	7955.89	105.00	7955.89	3	High Velocity
+340	Sony Laptops Open-architected optimizing support	Electronics	0	105	41729.91	105.00	41729.91	3	High Velocity
+439	Levis Shoes Face-to-face disintermediate adapter	Clothing	0	105	18959.69	105.00	18959.69	3	High Velocity
+468	H&M Kids Open-source logistical algorithm	Clothing	0	105	8766.03	105.00	8766.03	3	High Velocity
+516	Target Garden Synergized real-time array	Home	0	105	13479.05	105.00	13479.05	3	High Velocity
+540	McGraw Hill Reference Horizontal high-level approach	Books	0	105	5484.17	105.00	5484.17	3	High Velocity
+581	Penguin Reference Customizable 24hour knowledgebase	Books	0	105	3288.81	105.00	3288.81	3	High Velocity
+597	Harper Children Proactive interactive circuit	Books	0	105	8003.02	105.00	8003.02	3	High Velocity
+665	Wayfair Kitchen Quality-focused clear-thinking access	Home	0	105	54025.18	105.00	54025.18	3	High Velocity
+678	Penguin Reference Fully-configurable upward-trending moderator	Books	0	105	1239.90	105.00	1239.90	3	High Velocity
+688	Microsoft Laptops Extended homogeneous concept	Electronics	0	105	19194.40	105.00	19194.40	3	High Velocity
+703	Zara Kids Balanced logistical structure	Clothing	0	105	19137.55	105.00	19137.55	3	High Velocity
+735	Harper Non-Fiction Decentralized directional Graphic Interface	Books	0	105	4585.45	105.00	4585.45	3	High Velocity
+769	Under Armour Outdoor Optional global ability	Sports	0	105	27312.89	105.00	27312.89	3	High Velocity
+797	Scholastic Children Optional asynchronous moderator	Books	0	105	6792.21	105.00	6792.21	3	High Velocity
+803	Target Decor Devolved web-enabled pricing structure	Home	0	105	21893.34	105.00	21893.34	3	High Velocity
+813	Home Depot Decor Virtual bi-directional alliance	Home	0	105	9763.25	105.00	9763.25	3	High Velocity
+836	Adidas Fitness Robust secondary service-desk	Sports	0	105	20460.98	105.00	20460.98	3	High Velocity
+941	Dell Gaming De-engineered contextually-based infrastructure	Electronics	0	105	97812.30	105.00	97812.30	3	High Velocity
+54	West Elm Kitchen Versatile zero tolerance functionalities	Home	0	104	11303.59	104.00	11303.59	3	High Velocity
+86	Adidas Team Sports Upgradable web-enabled synergy	Sports	0	104	34674.95	104.00	34674.95	3	High Velocity
+88	Target Kitchen Face-to-face eco-centric time-frame	Home	0	104	30386.85	104.00	30386.85	3	High Velocity
+227	REI Fitness Switchable neutral challenge	Sports	0	104	5931.01	104.00	5931.01	3	High Velocity
+240	Samsung Gaming Enhanced motivating benchmark	Electronics	0	104	71992.05	104.00	71992.05	3	High Velocity
+253	Adidas Fitness Triple-buffered grid-enabled time-frame	Sports	0	104	31725.59	104.00	31725.59	3	High Velocity
+284	McGraw Hill Non-Fiction Advanced regional structure	Books	0	104	4252.88	104.00	4252.88	3	High Velocity
+335	REI Winter Fully-configurable zero-defect strategy	Sports	0	104	7933.02	104.00	7933.02	3	High Velocity
+341	Wayfair Garden Realigned intangible installation	Home	0	104	15890.89	104.00	15890.89	3	High Velocity
+393	Under Armour Fitness Intuitive radical synergy	Sports	0	104	41534.87	104.00	41534.87	3	High Velocity
+426	Gap Kids Triple-buffered zero-defect conglomeration	Clothing	0	104	2735.92	104.00	2735.92	3	High Velocity
+469	HP Tablets Quality-focused incremental capability	Electronics	0	104	116237.50	104.00	116237.50	3	High Velocity
+508	McGraw Hill Reference Polarized fresh-thinking contingency	Books	0	104	5581.35	104.00	5581.35	3	High Velocity
+511	Sony Smartphones Phased content-based collaboration	Electronics	0	104	173752.39	104.00	173752.39	3	High Velocity
+533	Adidas Shoes Public-key asynchronous capability	Clothing	0	104	13406.02	104.00	13406.02	3	High Velocity
+536	Levis Womens Enhanced optimizing challenge	Clothing	0	104	19451.20	104.00	19451.20	3	High Velocity
+547	HP Tablets Exclusive high-level matrices	Electronics	0	104	63645.15	104.00	63645.15	3	High Velocity
+548	McGraw Hill Non-Fiction Centralized fresh-thinking attitude	Books	0	104	5663.39	104.00	5663.39	3	High Velocity
+602	Under Armour Winter Fundamental upward-trending implementation	Sports	0	104	30498.36	104.00	30498.36	3	High Velocity
+615	Patagonia Outdoor Optimized executive structure	Sports	0	104	27015.49	104.00	27015.49	3	High Velocity
+655	H&M Womens Automated impactful adapter	Clothing	0	104	8082.47	104.00	8082.47	3	High Velocity
+826	Nike Water Sports Persevering impactful firmware	Sports	0	104	28164.71	104.00	28164.71	3	High Velocity
+843	Scholastic Fiction Decentralized fresh-thinking standardization	Books	0	104	2752.97	104.00	2752.97	3	High Velocity
+846	Apple Gaming Cross-group asymmetric access	Electronics	0	104	88393.82	104.00	88393.82	3	High Velocity
+868	H&M Shoes Visionary multi-tasking instruction set	Clothing	0	104	21579.73	104.00	21579.73	3	High Velocity
+977	Zara Womens Multi-channeled empowering conglomeration	Clothing	0	104	35657.52	104.00	35657.52	3	High Velocity
+978	Penguin Non-Fiction Realigned 5thgeneration parallelism	Books	0	104	3159.14	104.00	3159.14	3	High Velocity
+989	REI Water Sports Implemented exuding paradigm	Sports	0	104	17599.29	104.00	17599.29	3	High Velocity
+69	REI Winter Distributed asynchronous open system	Sports	0	103	18785.14	103.00	18785.14	3	High Velocity
+122	Zara Accessories Ergonomic grid-enabled pricing structure	Clothing	0	103	27242.99	103.00	27242.99	3	High Velocity
+194	Home Depot Storage Fully-configurable needs-based conglomeration	Home	0	103	41537.73	103.00	41537.73	3	High Velocity
+204	Scholastic Non-Fiction Automated mission-critical intranet	Books	0	103	2657.21	103.00	2657.21	3	High Velocity
+214	HP Gaming Multi-channeled high-level database	Electronics	0	103	133683.48	103.00	133683.48	3	High Velocity
+221	Wayfair Storage User-friendly incremental hub	Home	0	103	15991.41	103.00	15991.41	3	High Velocity
+274	H&M Accessories User-friendly real-time firmware	Clothing	0	103	22900.06	103.00	22900.06	3	High Velocity
+330	Nike Outdoor Future-proofed 3rdgeneration parallelism	Sports	0	103	7098.55	103.00	7098.55	3	High Velocity
+352	Nike Kids Re-engineered 5thgeneration structure	Clothing	0	103	28095.14	103.00	28095.14	3	High Velocity
+371	Harper Educational Re-contextualized cohesive superstructure	Books	0	103	3104.37	103.00	3104.37	3	High Velocity
+413	Harper Non-Fiction Right-sized needs-based moratorium	Books	0	103	4786.42	103.00	4786.42	3	High Velocity
+477	Under Armour Fitness Compatible holistic task-force	Sports	0	103	20770.94	103.00	20770.94	3	High Velocity
+479	Microsoft Smartphones Multi-lateral heuristic alliance	Electronics	0	103	81625.43	103.00	81625.43	3	High Velocity
+532	H&M Mens Horizontal tangible workforce	Clothing	0	103	12322.54	103.00	12322.54	3	High Velocity
+575	Harper Fiction Profound 24hour matrix	Books	0	103	3791.80	103.00	3791.80	3	High Velocity
+593	Nike Womens Business-focused contextually-based leverage	Clothing	0	103	4425.77	103.00	4425.77	3	High Velocity
+641	Nike Mens Multi-lateral user-facing hierarchy	Clothing	0	103	18952.99	103.00	18952.99	3	High Velocity
+700	Wayfair Kitchen Phased neutral attitude	Home	0	103	41722.28	103.00	41722.28	3	High Velocity
+708	Target Storage Centralized national parallelism	Home	0	103	29153.59	103.00	29153.59	3	High Velocity
+734	Under Armour Water Sports Customer-focused national secured line	Sports	0	103	21161.00	103.00	21161.00	3	High Velocity
+807	H&M Shoes Triple-buffered transitional intranet	Clothing	0	103	11116.96	103.00	11116.96	3	High Velocity
+815	Penguin Reference Persistent solution-oriented project	Books	0	103	4669.20	103.00	4669.20	3	High Velocity
+844	Samsung Gaming Business-focused tangible ability	Electronics	0	103	136629.39	103.00	136629.39	3	High Velocity
+850	Adidas Water Sports Function-based contextually-based customer loyalty	Sports	0	103	7583.33	103.00	7583.33	3	High Velocity
+857	Gap Accessories Networked analyzing open architecture	Clothing	0	103	24889.58	103.00	24889.58	3	High Velocity
+858	IKEA Furniture Progressive human-resource monitoring	Home	0	103	5881.37	103.00	5881.37	3	High Velocity
+860	West Elm Furniture Cloned zero-defect adapter	Home	0	103	35232.88	103.00	35232.88	3	High Velocity
+910	HP Laptops Integrated grid-enabled matrix	Electronics	0	103	57956.76	103.00	57956.76	3	High Velocity
+17	Nike Fitness Team-oriented 4thgeneration knowledgebase	Sports	0	102	25293.36	102.00	25293.36	3	High Velocity
+26	Apple Accessories Versatile multi-tasking conglomeration	Electronics	0	102	78314.97	102.00	78314.97	3	High Velocity
+39	Levis Mens Progressive maximized moderator	Clothing	0	102	7980.21	102.00	7980.21	3	High Velocity
+113	Target Garden Devolved neutral matrix	Home	0	102	18829.00	102.00	18829.00	3	High Velocity
+167	Samsung Smartphones Business-focused bi-directional toolset	Electronics	0	102	40910.85	102.00	40910.85	3	High Velocity
+173	Zara Kids Business-focused static intranet	Clothing	0	102	20728.54	102.00	20728.54	3	High Velocity
+177	Levis Shoes Down-sized fresh-thinking collaboration	Clothing	0	102	24254.59	102.00	24254.59	3	High Velocity
+225	West Elm Kitchen Integrated tangible knowledgebase	Home	0	102	28875.93	102.00	28875.93	3	High Velocity
+250	Wayfair Kitchen Open-source systematic frame	Home	0	102	20321.27	102.00	20321.27	3	High Velocity
+333	Nike Outdoor Front-line background info-mediaries	Sports	0	102	16620.65	102.00	16620.65	3	High Velocity
+339	Target Furniture Customizable transitional middleware	Home	0	102	40652.28	102.00	40652.28	3	High Velocity
+423	HP Gaming Robust multi-state utilization	Electronics	0	102	28351.47	102.00	28351.47	3	High Velocity
+481	Under Armour Outdoor Intuitive web-enabled algorithm	Sports	0	102	28251.28	102.00	28251.28	3	High Velocity
+555	Wayfair Storage Ameliorated logistical analyzer	Home	0	102	36682.78	102.00	36682.78	3	High Velocity
+583	Nike Fitness Re-contextualized stable workforce	Sports	0	102	27425.87	102.00	27425.87	3	High Velocity
+635	Adidas Team Sports Integrated contextually-based ability	Sports	0	102	10360.43	102.00	10360.43	3	High Velocity
+651	Dell Tablets Exclusive value-added system engine	Electronics	0	102	166591.20	102.00	166591.20	3	High Velocity
+694	Nike Womens Up-sized non-volatile website	Clothing	0	102	9051.00	102.00	9051.00	3	High Velocity
+746	Random House Non-Fiction Inverse homogeneous customer loyalty	Books	0	102	5126.95	102.00	5126.95	3	High Velocity
+771	Wayfair Furniture Switchable zero tolerance neural-net	Home	0	102	14575.10	102.00	14575.10	3	High Velocity
+811	Nike Team Sports Customizable context-sensitive utilization	Sports	0	102	23405.56	102.00	23405.56	3	High Velocity
+824	HP Accessories Balanced responsive initiative	Electronics	0	102	36427.40	102.00	36427.40	3	High Velocity
+957	Harper Non-Fiction Profound bandwidth-monitored orchestration	Books	0	102	4202.09	102.00	4202.09	3	High Velocity
+995	HP Smartphones Managed directional standardization	Electronics	0	102	110284.98	102.00	110284.98	3	High Velocity
+33	Under Armour Outdoor Reverse-engineered 3rdgeneration framework	Sports	0	101	12214.74	101.00	12214.74	3	High Velocity
+43	Nike Accessories Integrated bottom-line core	Clothing	0	101	6468.09	101.00	6468.09	3	High Velocity
+111	IKEA Garden Versatile clear-thinking emulation	Home	0	101	19659.10	101.00	19659.10	3	High Velocity
+115	Nike Team Sports Distributed intangible secured line	Sports	0	101	26626.36	101.00	26626.36	3	High Velocity
+176	Patagonia Team Sports Function-based 24hour knowledgebase	Sports	0	101	38775.56	101.00	38775.56	3	High Velocity
+184	Penguin Children Focused directional solution	Books	0	101	2701.94	101.00	2701.94	3	High Velocity
+201	Random House Fiction Synergized explicit matrices	Books	0	101	1910.28	101.00	1910.28	3	High Velocity
+228	Harper Reference Cross-group systemic projection	Books	0	101	3365.28	101.00	3365.28	3	High Velocity
+299	H&M Mens Inverse coherent encoding	Clothing	0	101	24904.45	101.00	24904.45	3	High Velocity
+385	Nike Water Sports Re-engineered content-based algorithm	Sports	0	101	5559.09	101.00	5559.09	3	High Velocity
+392	Random House Educational Focused bifurcated archive	Books	0	101	3256.09	101.00	3256.09	3	High Velocity
+416	McGraw Hill Educational Self-enabling attitude-oriented Internet solution	Books	0	101	2592.03	101.00	2592.03	3	High Velocity
+472	Wayfair Storage Realigned maximized knowledgebase	Home	0	101	12943.62	101.00	12943.62	3	High Velocity
+529	REI Winter Configurable high-level portal	Sports	0	101	25704.26	101.00	25704.26	3	High Velocity
+631	Wayfair Decor Multi-layered tertiary superstructure	Home	0	101	24232.73	101.00	24232.73	3	High Velocity
+647	Random House Non-Fiction Progressive stable application	Books	0	101	2514.72	101.00	2514.72	3	High Velocity
+660	Patagonia Team Sports Function-based 4thgeneration analyzer	Sports	0	101	26757.06	101.00	26757.06	3	High Velocity
+673	Adidas Outdoor User-friendly fresh-thinking matrices	Sports	0	101	10706.54	101.00	10706.54	3	High Velocity
+765	IKEA Garden Open-architected empowering projection	Home	0	101	37524.39	101.00	37524.39	3	High Velocity
+828	Samsung Tablets Focused scalable capability	Electronics	0	101	107697.10	101.00	107697.10	3	High Velocity
+831	Gap Accessories Configurable secondary model	Clothing	0	101	27910.67	101.00	27910.67	3	High Velocity
+873	West Elm Kitchen Re-engineered 24/7 Graphical User Interface	Home	0	101	41848.31	101.00	41848.31	3	High Velocity
+895	Under Armour Water Sports Profit-focused next generation orchestration	Sports	0	101	21556.63	101.00	21556.63	3	High Velocity
+917	REI Team Sports Cross-platform dedicated leverage	Sports	0	101	30234.83	101.00	30234.83	3	High Velocity
+972	H&M Mens Monitored reciprocal initiative	Clothing	0	101	31552.10	101.00	31552.10	3	High Velocity
+973	Nike Kids User-centric mobile capacity	Clothing	0	101	17804.93	101.00	17804.93	3	High Velocity
+990	H&M Mens Sharable composite toolset	Clothing	0	101	17528.52	101.00	17528.52	3	High Velocity
+73	Nike Fitness Proactive intangible middleware	Sports	0	100	15924.58	100.00	15924.58	3	High Velocity
+76	Penguin Fiction Switchable user-facing database	Books	0	100	3993.53	100.00	3993.53	3	High Velocity
+100	Levis Accessories Distributed optimizing implementation	Clothing	0	100	4683.85	100.00	4683.85	3	High Velocity
+127	Zara Kids Multi-layered maximized benchmark	Clothing	0	100	18155.33	100.00	18155.33	3	High Velocity
+206	HP Laptops Business-focused client-driven software	Electronics	0	100	126758.76	100.00	126758.76	3	High Velocity
+210	Samsung Gaming Business-focused human-resource moderator	Electronics	0	100	25953.29	100.00	25953.29	3	High Velocity
+280	Home Depot Kitchen Monitored intermediate Graphic Interface	Home	0	100	6877.41	100.00	6877.41	3	High Velocity
+336	Under Armour Winter Implemented even-keeled access	Sports	0	100	40188.88	100.00	40188.88	3	High Velocity
+377	Harper Children Fundamental transitional monitoring	Books	0	100	4954.03	100.00	4954.03	3	High Velocity
+470	McGraw Hill Fiction User-centric multi-state policy	Books	0	100	5395.42	100.00	5395.42	3	High Velocity
+493	REI Winter Visionary dynamic secured line	Sports	0	100	35282.20	100.00	35282.20	3	High Velocity
+502	West Elm Decor Focused zero administration data-warehouse	Home	0	100	49702.35	100.00	49702.35	3	High Velocity
+514	Patagonia Team Sports Pre-emptive attitude-oriented workforce	Sports	0	100	12614.04	100.00	12614.04	3	High Velocity
+531	H&M Womens Operative needs-based function	Clothing	0	100	4392.27	100.00	4392.27	3	High Velocity
+566	Dell Accessories Optimized dynamic ability	Electronics	0	100	173623.00	100.00	173623.00	3	High Velocity
+606	McGraw Hill Educational Extended regional capability	Books	0	100	4886.95	100.00	4886.95	3	High Velocity
+613	IKEA Kitchen Persevering actuating emulation	Home	0	100	26467.77	100.00	26467.77	3	High Velocity
+622	Levis Womens Devolved intangible website	Clothing	0	100	6090.50	100.00	6090.50	3	High Velocity
+784	Zara Womens Cross-platform systemic instruction set	Clothing	0	100	5844.79	100.00	5844.79	3	High Velocity
+817	Sony Gaming Operative web-enabled database	Electronics	0	100	90033.30	100.00	90033.30	3	High Velocity
+891	Patagonia Outdoor Optimized multi-state productivity	Sports	0	100	30892.64	100.00	30892.64	3	High Velocity
+904	HP Smartphones Innovative object-oriented ability	Electronics	0	100	86559.44	100.00	86559.44	3	High Velocity
+928	McGraw Hill Reference Face-to-face empowering encryption	Books	0	100	7173.90	100.00	7173.90	3	High Velocity
+969	Gap Mens Future-proofed 6thgeneration project	Clothing	0	100	26201.19	100.00	26201.19	3	High Velocity
+1000	Wayfair Decor Inverse national groupware	Home	0	100	5286.37	100.00	5286.37	3	High Velocity
+13	McGraw Hill Children Mandatory scalable methodology	Books	0	99	2412.40	99.00	2412.40	3	High Velocity
+89	Target Storage Open-source zero tolerance artificial intelligence	Home	0	99	10590.41	99.00	10590.41	3	High Velocity
+139	Target Kitchen Persevering transitional conglomeration	Home	0	99	8724.95	99.00	8724.95	3	High Velocity
+185	Wayfair Kitchen Reactive fault-tolerant frame	Home	0	99	4581.66	99.00	4581.66	3	High Velocity
+346	Target Garden Organic empowering attitude	Home	0	99	27006.48	99.00	27006.48	3	High Velocity
+351	Samsung Tablets User-friendly bandwidth-monitored hub	Electronics	0	99	18175.07	99.00	18175.07	4	High Velocity
+369	Scholastic Educational Triple-buffered dedicated knowledgebase	Books	0	99	6994.39	99.00	6994.39	4	High Velocity
+405	McGraw Hill Educational Phased attitude-oriented emulation	Books	0	99	4637.15	99.00	4637.15	4	High Velocity
+445	IKEA Furniture Self-enabling system-worthy protocol	Home	0	99	18272.98	99.00	18272.98	4	High Velocity
+466	Microsoft Smartphones Digitized fresh-thinking artificial intelligence	Electronics	0	99	135252.97	99.00	135252.97	4	High Velocity
+474	Target Storage Quality-focused foreground moratorium	Home	0	99	37376.95	99.00	37376.95	4	High Velocity
+484	Penguin Non-Fiction Team-oriented explicit productivity	Books	0	99	3355.91	99.00	3355.91	4	High Velocity
+519	Zara Womens Integrated impactful definition	Clothing	0	99	10866.39	99.00	10866.39	4	High Velocity
+629	Samsung Accessories Progressive optimizing process improvement	Electronics	0	99	115961.68	99.00	115961.68	4	High Velocity
+756	West Elm Garden Progressive grid-enabled solution	Home	0	99	61032.71	99.00	61032.71	4	High Velocity
+820	Microsoft Gaming Focused client-driven emulation	Electronics	0	99	81026.07	99.00	81026.07	4	High Velocity
+865	Penguin Educational Managed value-added process improvement	Books	0	99	7863.55	99.00	7863.55	4	High Velocity
+876	Adidas Winter Customizable explicit policy	Sports	0	99	11019.71	99.00	11019.71	4	High Velocity
+881	Sony Smartphones Configurable non-volatile product	Electronics	0	99	50038.43	99.00	50038.43	4	High Velocity
+893	Home Depot Storage User-centric fault-tolerant groupware	Home	0	99	38654.78	99.00	38654.78	4	High Velocity
+918	Wayfair Kitchen Distributed regional database	Home	0	99	20520.87	99.00	20520.87	4	High Velocity
+919	Nike Accessories Team-oriented coherent open system	Clothing	0	99	10369.37	99.00	10369.37	4	High Velocity
+920	Nike Shoes Balanced 6thgeneration projection	Clothing	0	99	19720.24	99.00	19720.24	4	High Velocity
+965	Sony Tablets Public-key cohesive utilization	Electronics	0	99	50458.00	99.00	50458.00	4	High Velocity
+63	Patagonia Outdoor Multi-layered multi-tasking knowledge user	Sports	0	98	18279.78	98.00	18279.78	4	High Velocity
+91	Home Depot Decor Inverse 5thgeneration application	Home	0	98	22016.54	98.00	22016.54	4	High Velocity
+92	H&M Mens Mandatory eco-centric website	Clothing	0	98	1928.03	98.00	1928.03	4	High Velocity
+129	Levis Womens Multi-tiered coherent alliance	Clothing	0	98	25549.56	98.00	25549.56	4	High Velocity
+155	Levis Kids Profound system-worthy portal	Clothing	0	98	9853.03	98.00	9853.03	4	High Velocity
+189	Home Depot Decor Cross-group mission-critical projection	Home	0	98	32713.00	98.00	32713.00	4	High Velocity
+248	Adidas Mens Ameliorated asymmetric analyzer	Clothing	0	98	15089.44	98.00	15089.44	4	High Velocity
+249	Wayfair Decor Down-sized responsive standardization	Home	0	98	69055.80	98.00	69055.80	4	High Velocity
+256	Patagonia Winter Reduced upward-trending matrix	Sports	0	98	7081.31	98.00	7081.31	4	High Velocity
+319	Random House Reference De-engineered context-sensitive project	Books	0	98	4342.18	98.00	4342.18	4	High Velocity
+332	Samsung Smartphones User-friendly bifurcated extranet	Electronics	0	98	105735.72	98.00	105735.72	4	High Velocity
+365	Random House Fiction Multi-tiered leadingedge collaboration	Books	0	98	3352.96	98.00	3352.96	4	High Velocity
+390	Under Armour Winter Fundamental coherent task-force	Sports	0	98	13909.51	98.00	13909.51	4	High Velocity
+504	Random House Educational Object-based mobile hub	Books	0	98	2732.66	98.00	2732.66	4	High Velocity
+509	Home Depot Storage Synergistic multi-state methodology	Home	0	98	52490.24	98.00	52490.24	4	High Velocity
+564	Nike Outdoor Diverse 6thgeneration contingency	Sports	0	98	3825.34	98.00	3825.34	4	High Velocity
+574	Apple Gaming Future-proofed 3rdgeneration portal	Electronics	0	98	161267.42	98.00	161267.42	4	High Velocity
+590	Microsoft Smartphones Re-contextualized 5thgeneration website	Electronics	0	98	42110.22	98.00	42110.22	4	High Velocity
+640	Apple Laptops Polarized encompassing productivity	Electronics	0	98	137150.47	98.00	137150.47	4	High Velocity
+662	Patagonia Fitness Compatible holistic approach	Sports	0	98	7948.68	98.00	7948.68	4	High Velocity
+724	Scholastic Fiction Upgradable intermediate infrastructure	Books	0	98	6062.75	98.00	6062.75	4	High Velocity
+725	Scholastic Children Integrated contextually-based intranet	Books	0	98	3403.10	98.00	3403.10	4	High Velocity
+749	Apple Accessories Programmable clear-thinking focus group	Electronics	0	98	55774.96	98.00	55774.96	4	High Velocity
+877	Microsoft Tablets De-engineered upward-trending website	Electronics	0	98	104846.02	98.00	104846.02	4	High Velocity
+889	HP Tablets Implemented encompassing flexibility	Electronics	0	98	11019.01	98.00	11019.01	4	High Velocity
+931	Zara Kids Configurable next generation analyzer	Clothing	0	98	7774.87	98.00	7774.87	4	High Velocity
+974	IKEA Decor Organized impactful orchestration	Home	0	98	33356.83	98.00	33356.83	4	High Velocity
+62	Zara Kids Total fresh-thinking productivity	Clothing	0	97	13568.47	97.00	13568.47	4	High Velocity
+65	IKEA Garden Persevering human-resource access	Home	0	97	37536.57	97.00	37536.57	4	High Velocity
+74	Nike Team Sports Up-sized multi-state process improvement	Sports	0	97	14644.43	97.00	14644.43	4	High Velocity
+104	HP Laptops Expanded regional system engine	Electronics	0	97	115170.07	97.00	115170.07	4	High Velocity
+121	Samsung Smartphones Implemented 5thgeneration definition	Electronics	0	97	84957.39	97.00	84957.39	4	High Velocity
+160	Samsung Accessories Quality-focused directional leverage	Electronics	0	97	62143.19	97.00	62143.19	4	High Velocity
+261	Zara Shoes Visionary leadingedge project	Clothing	0	97	13143.64	97.00	13143.64	4	High Velocity
+449	IKEA Storage Total motivating structure	Home	0	97	14653.77	97.00	14653.77	4	High Velocity
+455	Adidas Winter Enterprise-wide modular leverage	Sports	0	97	6050.29	97.00	6050.29	4	High Velocity
+483	Nike Team Sports Intuitive modular migration	Sports	0	97	10461.66	97.00	10461.66	4	High Velocity
+541	HP Tablets Focused responsive middleware	Electronics	0	97	86670.00	97.00	86670.00	4	High Velocity
+576	Adidas Accessories Customer-focused global concept	Clothing	0	97	7099.34	97.00	7099.34	4	High Velocity
+585	Penguin Children Profound zero tolerance implementation	Books	0	97	4011.27	97.00	4011.27	4	High Velocity
+600	Under Armour Fitness Virtual scalable open architecture	Sports	0	97	5494.11	97.00	5494.11	4	High Velocity
+611	Harper Children Centralized executive Local Area Network	Books	0	97	3877.01	97.00	3877.01	4	High Velocity
+692	REI Fitness Robust logistical complexity	Sports	0	97	20139.91	97.00	20139.91	4	High Velocity
+727	H&M Shoes Synergized cohesive archive	Clothing	0	97	8660.99	97.00	8660.99	4	High Velocity
+777	Home Depot Decor Compatible neutral contingency	Home	0	97	39372.96	97.00	39372.96	4	High Velocity
+785	Random House Children Enhanced human-resource emulation	Books	0	97	4128.55	97.00	4128.55	4	High Velocity
+799	H&M Accessories Polarized foreground workforce	Clothing	0	97	12470.33	97.00	12470.33	4	High Velocity
+810	Adidas Fitness Customer-focused empowering application	Sports	0	97	19550.52	97.00	19550.52	4	High Velocity
+955	Adidas Shoes Horizontal empowering customer loyalty	Clothing	0	97	14651.47	97.00	14651.47	4	High Velocity
+4	Target Garden Business-focused object-oriented capability	Home	0	96	34401.62	96.00	34401.62	4	High Velocity
+55	Zara Accessories Progressive multi-state leverage	Clothing	0	96	29289.05	96.00	29289.05	4	High Velocity
+72	Microsoft Tablets Optional global structure	Electronics	0	96	20511.14	96.00	20511.14	4	High Velocity
+164	Adidas Team Sports Monitored secondary data-warehouse	Sports	0	96	36625.23	96.00	36625.23	4	High Velocity
+175	IKEA Decor Operative bifurcated productivity	Home	0	96	43991.63	96.00	43991.63	4	High Velocity
+180	Sony Gaming Diverse empowering array	Electronics	0	96	69420.98	96.00	69420.98	4	High Velocity
+187	Nike Womens Fully-configurable uniform open architecture	Clothing	0	96	9840.34	96.00	9840.34	4	High Velocity
+229	Target Decor Pre-emptive methodical instruction set	Home	0	96	66421.45	96.00	66421.45	4	High Velocity
+232	McGraw Hill Non-Fiction Cross-group high-level middleware	Books	0	96	5678.87	96.00	5678.87	4	High Velocity
+297	IKEA Garden Ergonomic 24/7 Graphic Interface	Home	0	96	51898.15	96.00	51898.15	4	High Velocity
+301	Penguin Fiction Front-line full-range algorithm	Books	0	96	5518.05	96.00	5518.05	4	High Velocity
+315	Nike Accessories Streamlined exuding open architecture	Clothing	0	96	2816.17	96.00	2816.17	4	High Velocity
+324	Harper Fiction Operative incremental complexity	Books	0	96	5574.36	96.00	5574.36	4	High Velocity
+334	Adidas Team Sports Fundamental object-oriented architecture	Sports	0	96	7689.17	96.00	7689.17	4	High Velocity
+398	Harper Non-Fiction Organized contextually-based moderator	Books	0	96	5055.76	96.00	5055.76	4	High Velocity
+431	West Elm Furniture Business-focused optimizing structure	Home	0	96	55961.59	96.00	55961.59	4	High Velocity
+525	Adidas Kids Seamless well-modulated core	Clothing	0	96	29107.02	96.00	29107.02	4	High Velocity
+552	Patagonia Water Sports Fully-configurable bottom-line synergy	Sports	0	96	6272.54	96.00	6272.54	4	High Velocity
+561	Microsoft Accessories Advanced upward-trending synergy	Electronics	0	96	145726.90	96.00	145726.90	4	High Velocity
+569	REI Team Sports Cross-platform mission-critical matrices	Sports	0	96	23891.69	96.00	23891.69	4	High Velocity
+591	Home Depot Kitchen Centralized dynamic info-mediaries	Home	0	96	32743.97	96.00	32743.97	4	High Velocity
+596	Gap Kids Re-engineered asynchronous moderator	Clothing	0	96	3488.40	96.00	3488.40	4	High Velocity
+607	Apple Gaming Configurable context-sensitive capability	Electronics	0	96	141007.37	96.00	141007.37	4	High Velocity
+610	REI Outdoor Multi-layered cohesive protocol	Sports	0	96	7670.16	96.00	7670.16	4	High Velocity
+642	Gap Kids Visionary systemic customer loyalty	Clothing	0	96	18489.84	96.00	18489.84	4	High Velocity
+670	Adidas Water Sports Digitized contextually-based interface	Sports	0	96	42858.73	96.00	42858.73	4	High Velocity
+710	Apple Laptops Distributed logistical methodology	Electronics	0	96	80160.43	96.00	80160.43	4	High Velocity
+886	Home Depot Garden Digitized 3rdgeneration forecast	Home	0	96	43820.59	96.00	43820.59	4	High Velocity
+922	Sony Tablets Expanded leadingedge migration	Electronics	0	96	146587.81	96.00	146587.81	4	High Velocity
+932	Nike Water Sports User-centric explicit throughput	Sports	0	96	18042.22	96.00	18042.22	4	High Velocity
+949	IKEA Furniture Profound uniform policy	Home	0	96	42941.59	96.00	42941.59	4	High Velocity
+952	H&M Accessories Exclusive zero tolerance synergy	Clothing	0	96	9681.68	96.00	9681.68	4	High Velocity
+994	Target Storage Re-contextualized cohesive productivity	Home	0	96	35669.21	96.00	35669.21	4	High Velocity
+5	Home Depot Decor Decentralized bandwidth-monitored synergy	Home	0	95	25004.01	95.00	25004.01	4	High Velocity
+64	Nike Water Sports Object-based well-modulated support	Sports	0	95	25832.37	95.00	25832.37	4	High Velocity
+109	H&M Womens Mandatory encompassing extranet	Clothing	0	95	6369.90	95.00	6369.90	4	High Velocity
+126	REI Water Sports Enterprise-wide mission-critical hierarchy	Sports	0	95	13365.93	95.00	13365.93	4	High Velocity
+172	Zara Mens Vision-oriented intermediate Graphic Interface	Clothing	0	95	28388.47	95.00	28388.47	4	High Velocity
+192	West Elm Decor Enterprise-wide systematic model	Home	0	95	46788.02	95.00	46788.02	4	High Velocity
+195	Dell Gaming Horizontal multi-tasking intranet	Electronics	0	95	54874.36	95.00	54874.36	4	High Velocity
+196	REI Team Sports Organized fresh-thinking database	Sports	0	95	4439.79	95.00	4439.79	4	High Velocity
+255	McGraw Hill Fiction User-friendly analyzing knowledgebase	Books	0	95	5858.25	95.00	5858.25	4	High Velocity
+271	Samsung Smartphones Focused homogeneous hardware	Electronics	0	95	13902.84	95.00	13902.84	4	High Velocity
+291	Nike Kids Operative real-time array	Clothing	0	95	33101.20	95.00	33101.20	4	High Velocity
+303	Wayfair Decor Switchable user-facing open architecture	Home	0	95	19707.21	95.00	19707.21	4	High Velocity
+343	H&M Accessories Implemented encompassing hub	Clothing	0	95	21477.88	95.00	21477.88	4	High Velocity
+350	Sony Gaming Expanded reciprocal service-desk	Electronics	0	95	62344.93	95.00	62344.93	4	High Velocity
+361	Sony Smartphones Seamless multi-state info-mediaries	Electronics	0	95	68535.51	95.00	68535.51	4	High Velocity
+411	Under Armour Winter Enhanced zero administration instruction set	Sports	0	95	23382.69	95.00	23382.69	4	High Velocity
+458	Microsoft Laptops Switchable logistical strategy	Electronics	0	95	168231.72	95.00	168231.72	4	High Velocity
+518	H&M Mens Synchronized bandwidth-monitored contingency	Clothing	0	95	13138.24	95.00	13138.24	4	High Velocity
+571	Sony Accessories Team-oriented national product	Electronics	0	95	19598.28	95.00	19598.28	4	High Velocity
+573	Gap Accessories User-centric regional groupware	Clothing	0	95	15717.32	95.00	15717.32	4	High Velocity
+639	Wayfair Decor Open-architected client-server info-mediaries	Home	0	95	28199.48	95.00	28199.48	4	High Velocity
+649	IKEA Furniture Digitized interactive superstructure	Home	0	95	55141.70	95.00	55141.70	4	High Velocity
+693	Samsung Accessories Organized mobile process improvement	Electronics	0	95	59324.13	95.00	59324.13	4	High Velocity
+741	Gap Shoes Re-engineered impactful extranet	Clothing	0	95	4771.02	95.00	4771.02	4	High Velocity
+788	Nike Outdoor Open-architected global knowledgebase	Sports	0	95	31407.22	95.00	31407.22	4	High Velocity
+804	REI Team Sports Re-contextualized object-oriented core	Sports	0	95	9133.68	95.00	9133.68	4	High Velocity
+839	Nike Womens Innovative disintermediate array	Clothing	0	95	19064.68	95.00	19064.68	4	High Velocity
+903	HP Accessories Multi-lateral uniform contingency	Electronics	0	95	56235.04	95.00	56235.04	4	High Velocity
+905	Penguin Non-Fiction Future-proofed didactic protocol	Books	0	95	2381.85	95.00	2381.85	4	High Velocity
+909	Microsoft Gaming Multi-tiered national project	Electronics	0	95	78154.99	95.00	78154.99	4	High Velocity
+930	Zara Accessories Sharable zero-defect support	Clothing	0	95	15266.86	95.00	15266.86	4	High Velocity
+944	Harper Children Public-key even-keeled ability	Books	0	95	5171.54	95.00	5171.54	4	High Velocity
+968	Adidas Outdoor De-engineered zero-defect task-force	Sports	0	95	23374.45	95.00	23374.45	4	High Velocity
+984	Under Armour Outdoor Diverse cohesive utilization	Sports	0	95	16250.26	95.00	16250.26	4	High Velocity
+101	Dell Tablets Proactive asynchronous intranet	Electronics	0	94	96708.98	94.00	96708.98	4	High Velocity
+105	Nike Shoes Triple-buffered system-worthy framework	Clothing	0	94	2035.79	94.00	2035.79	4	High Velocity
+136	IKEA Kitchen Upgradable content-based open system	Home	0	94	20255.00	94.00	20255.00	4	High Velocity
+138	Microsoft Accessories Self-enabling stable contingency	Electronics	0	94	53995.05	94.00	53995.05	4	High Velocity
+141	McGraw Hill Educational Devolved maximized methodology	Books	0	94	3272.41	94.00	3272.41	4	High Velocity
+190	Nike Accessories Polarized encompassing attitude	Clothing	0	94	13465.84	94.00	13465.84	4	High Velocity
+282	Penguin Reference Horizontal didactic adapter	Books	0	94	1911.21	94.00	1911.21	4	High Velocity
+317	Samsung Smartphones Universal client-server orchestration	Electronics	0	94	20180.21	94.00	20180.21	4	High Velocity
+353	Sony Accessories Stand-alone system-worthy website	Electronics	0	94	48809.00	94.00	48809.00	4	High Velocity
+358	Sony Laptops Distributed logistical concept	Electronics	0	94	23459.94	94.00	23459.94	4	High Velocity
+396	Apple Laptops Inverse optimizing moderator	Electronics	0	94	131623.18	94.00	131623.18	4	High Velocity
+406	Under Armour Team Sports Advanced upward-trending success	Sports	0	94	19722.01	94.00	19722.01	4	High Velocity
+465	Scholastic Non-Fiction Visionary homogeneous benchmark	Books	0	94	1234.88	94.00	1234.88	4	High Velocity
+551	IKEA Kitchen Visionary object-oriented concept	Home	0	94	16372.61	94.00	16372.61	4	High Velocity
+666	Harper Children Progressive asynchronous system engine	Books	0	94	5008.07	94.00	5008.07	4	High Velocity
+687	Target Furniture Seamless 3rdgeneration moratorium	Home	0	94	15445.46	94.00	15445.46	4	High Velocity
+712	Gap Accessories Configurable bi-directional Local Area Network	Clothing	0	94	16126.24	94.00	16126.24	4	High Velocity
+838	Under Armour Water Sports Networked client-driven success	Sports	0	94	6143.81	94.00	6143.81	4	High Velocity
+864	Target Storage Cloned cohesive extranet	Home	0	94	34026.47	94.00	34026.47	4	High Velocity
+870	Apple Accessories Reverse-engineered holistic infrastructure	Electronics	0	94	69941.41	94.00	69941.41	4	High Velocity
+874	Home Depot Decor Reverse-engineered multi-tasking architecture	Home	0	94	13303.10	94.00	13303.10	4	High Velocity
+1	West Elm Kitchen Extended national database	Home	0	93	31494.48	93.00	31494.48	4	High Velocity
+45	Zara Accessories Switchable eco-centric projection	Clothing	0	93	18315.99	93.00	18315.99	4	High Velocity
+52	Random House Reference Down-sized leadingedge leverage	Books	0	93	3794.84	93.00	3794.84	4	High Velocity
+66	McGraw Hill Children Customizable local concept	Books	0	93	2811.36	93.00	2811.36	4	High Velocity
+79	Adidas Kids Organized value-added infrastructure	Clothing	0	93	16385.55	93.00	16385.55	4	High Velocity
+97	Nike Womens Horizontal responsive middleware	Clothing	0	93	21394.46	93.00	21394.46	4	High Velocity
+156	Harper Educational User-friendly asymmetric circuit	Books	0	93	2698.72	93.00	2698.72	4	High Velocity
+223	Home Depot Storage Managed fault-tolerant methodology	Home	0	93	11020.63	93.00	11020.63	4	High Velocity
+270	West Elm Storage Automated logistical policy	Home	0	93	20932.26	93.00	20932.26	4	High Velocity
+306	West Elm Storage Reactive clear-thinking time-frame	Home	0	93	48716.99	93.00	48716.99	4	High Velocity
+372	McGraw Hill Educational Function-based multimedia definition	Books	0	93	3655.28	93.00	3655.28	4	High Velocity
+378	HP Gaming Self-enabling holistic hub	Electronics	0	93	50294.50	93.00	50294.50	4	High Velocity
+437	McGraw Hill Children Synchronized non-volatile task-force	Books	0	93	1424.85	93.00	1424.85	4	High Velocity
+456	IKEA Furniture Profound uniform productivity	Home	0	93	46676.88	93.00	46676.88	4	High Velocity
+478	Target Furniture Vision-oriented upward-trending extranet	Home	0	93	49074.49	93.00	49074.49	4	High Velocity
+643	Harper Educational Networked dynamic solution	Books	0	93	2119.04	93.00	2119.04	4	High Velocity
+646	IKEA Decor Monitored well-modulated system engine	Home	0	93	23092.28	93.00	23092.28	4	High Velocity
+658	Wayfair Decor Devolved fresh-thinking monitoring	Home	0	93	17690.54	93.00	17690.54	4	High Velocity
+855	Adidas Outdoor Proactive actuating projection	Sports	0	93	5936.55	93.00	5936.55	4	High Velocity
+856	REI Water Sports Right-sized homogeneous Local Area Network	Sports	0	93	17221.77	93.00	17221.77	4	High Velocity
+879	Zara Womens Secured uniform process improvement	Clothing	0	93	11033.95	93.00	11033.95	4	High Velocity
+899	REI Water Sports Diverse global encoding	Sports	0	93	41767.33	93.00	41767.33	4	High Velocity
+945	Adidas Mens Mandatory homogeneous adapter	Clothing	0	93	22144.26	93.00	22144.26	4	High Velocity
+954	Adidas Womens Object-based stable instruction set	Clothing	0	93	3308.77	93.00	3308.77	4	High Velocity
+966	HP Tablets Re-contextualized directional project	Electronics	0	93	122810.64	93.00	122810.64	4	High Velocity
+53	IKEA Storage Seamless leadingedge task-force	Home	0	92	59308.97	92.00	59308.97	4	High Velocity
+80	Random House Fiction Self-enabling attitude-oriented benchmark	Books	0	92	6299.65	92.00	6299.65	4	High Velocity
+99	McGraw Hill Children Object-based bandwidth-monitored intranet	Books	0	92	3198.11	92.00	3198.11	4	High Velocity
+119	Nike Mens Re-engineered multimedia process improvement	Clothing	0	92	7905.87	92.00	7905.87	4	High Velocity
+212	Harper Educational Managed responsive extranet	Books	0	92	1572.82	92.00	1572.82	4	High Velocity
+241	Nike Outdoor Switchable static archive	Sports	0	92	16458.43	92.00	16458.43	4	High Velocity
+264	REI Outdoor Seamless fault-tolerant projection	Sports	0	92	22961.12	92.00	22961.12	4	High Velocity
+307	Zara Kids Business-focused logistical access	Clothing	0	92	9812.83	92.00	9812.83	4	High Velocity
+338	Under Armour Winter Multi-tiered dedicated extranet	Sports	0	92	10293.11	92.00	10293.11	4	High Velocity
+375	Patagonia Team Sports Progressive local model	Sports	0	92	4690.18	92.00	4690.18	4	High Velocity
+467	Under Armour Winter Balanced dynamic archive	Sports	0	92	16676.74	92.00	16676.74	4	High Velocity
+497	Nike Womens Adaptive full-range Internet solution	Clothing	0	92	7762.33	92.00	7762.33	4	High Velocity
+510	Patagonia Outdoor Profound mission-critical focus group	Sports	0	92	20508.34	92.00	20508.34	4	High Velocity
+512	Target Kitchen Multi-tiered empowering customer loyalty	Home	0	92	47684.82	92.00	47684.82	4	High Velocity
+517	Nike Winter Stand-alone fresh-thinking capability	Sports	0	92	4259.44	92.00	4259.44	4	High Velocity
+582	McGraw Hill Reference Team-oriented global access	Books	0	92	1865.06	92.00	1865.06	4	High Velocity
+628	Nike Water Sports Public-key optimizing database	Sports	0	92	34180.68	92.00	34180.68	4	High Velocity
+766	Wayfair Furniture Centralized context-sensitive success	Home	0	92	32346.07	92.00	32346.07	4	High Velocity
+770	Zara Mens Public-key fresh-thinking open system	Clothing	0	92	17647.07	92.00	17647.07	4	High Velocity
+821	Penguin Educational Multi-tiered eco-centric concept	Books	0	92	4822.04	92.00	4822.04	5	High Velocity
+862	Random House Educational User-friendly optimal pricing structure	Books	0	92	6147.29	92.00	6147.29	5	High Velocity
+894	Nike Water Sports Diverse incremental methodology	Sports	0	92	32643.33	92.00	32643.33	5	High Velocity
+943	H&M Kids Assimilated multi-state firmware	Clothing	0	92	9014.37	92.00	9014.37	5	High Velocity
+987	Wayfair Garden Operative 5thgeneration framework	Home	0	92	11255.21	92.00	11255.21	5	High Velocity
+152	Nike Team Sports Pre-emptive encompassing definition	Sports	0	91	31198.82	91.00	31198.82	5	High Velocity
+213	McGraw Hill Non-Fiction Integrated tangible firmware	Books	0	91	3079.84	91.00	3079.84	5	High Velocity
+230	Nike Outdoor De-engineered transitional conglomeration	Sports	0	91	31621.76	91.00	31621.76	5	High Velocity
+309	Wayfair Furniture Business-focused static approach	Home	0	91	20475.00	91.00	20475.00	5	High Velocity
+337	West Elm Storage Innovative radical task-force	Home	0	91	14954.89	91.00	14954.89	5	High Velocity
+379	Adidas Winter Secured tertiary interface	Sports	0	91	21347.22	91.00	21347.22	5	High Velocity
+386	Zara Mens Vision-oriented didactic array	Clothing	0	91	17146.42	91.00	17146.42	5	High Velocity
+397	Patagonia Water Sports Business-focused tangible projection	Sports	0	91	3442.25	91.00	3442.25	5	High Velocity
+409	Penguin Non-Fiction Team-oriented non-volatile system engine	Books	0	91	7776.66	91.00	7776.66	5	High Velocity
+453	Dell Tablets Enhanced modular instruction set	Electronics	0	91	70665.05	91.00	70665.05	5	High Velocity
+563	Zara Womens Team-oriented systemic data-warehouse	Clothing	0	91	20600.39	91.00	20600.39	5	High Velocity
+663	Adidas Shoes Right-sized bandwidth-monitored data-warehouse	Clothing	0	91	1719.88	91.00	1719.88	5	High Velocity
+675	H&M Mens Grass-roots optimal functionalities	Clothing	0	91	24820.99	91.00	24820.99	5	High Velocity
+684	Dell Gaming Persistent real-time frame	Electronics	0	91	77030.36	91.00	77030.36	5	High Velocity
+739	Samsung Tablets Up-sized didactic application	Electronics	0	91	128768.08	91.00	128768.08	5	High Velocity
+897	Levis Womens Team-oriented multi-state definition	Clothing	0	91	23641.45	91.00	23641.45	5	High Velocity
+900	Home Depot Storage Enhanced analyzing flexibility	Home	0	91	32477.40	91.00	32477.40	5	High Velocity
+988	Dell Gaming Cross-platform zero administration solution	Electronics	0	91	101573.30	91.00	101573.30	5	High Velocity
+279	Levis Mens Optional stable database	Clothing	0	90	13020.87	90.00	13020.87	5	High Velocity
+296	Nike Water Sports Exclusive systematic methodology	Sports	0	90	19229.20	90.00	19229.20	5	High Velocity
+363	Wayfair Kitchen Stand-alone uniform middleware	Home	0	90	55689.34	90.00	55689.34	5	High Velocity
+383	Adidas Team Sports Optional real-time time-frame	Sports	0	90	38443.79	90.00	38443.79	5	High Velocity
+430	Home Depot Furniture Reverse-engineered exuding artificial intelligence	Home	0	90	39292.17	90.00	39292.17	5	High Velocity
+505	Apple Accessories Open-architected static concept	Electronics	0	90	41353.90	90.00	41353.90	5	High Velocity
+626	Nike Womens Organized homogeneous service-desk	Clothing	0	90	6108.99	90.00	6108.99	5	High Velocity
+633	REI Winter Expanded mobile neural-net	Sports	0	90	8363.50	90.00	8363.50	5	High Velocity
+776	Harper Educational Proactive discrete superstructure	Books	0	90	4648.99	90.00	4648.99	5	High Velocity
+827	Apple Tablets Vision-oriented methodical matrices	Electronics	0	90	90934.31	90.00	90934.31	5	High Velocity
+938	Adidas Water Sports Synchronized demand-driven Graphical User Interface	Sports	0	90	28463.06	90.00	28463.06	5	High Velocity
+960	Adidas Winter Pre-emptive homogeneous initiative	Sports	0	90	7522.69	90.00	7522.69	5	High Velocity
+979	Zara Mens Profound multi-state encoding	Clothing	0	90	18703.91	90.00	18703.91	5	High Velocity
+38	Home Depot Garden Open-architected secondary orchestration	Home	0	89	29511.48	89.00	29511.48	5	High Velocity
+61	Home Depot Kitchen Face-to-face mobile strategy	Home	0	89	7667.83	89.00	7667.83	5	High Velocity
+95	Scholastic Fiction Multi-channeled maximized paradigm	Books	0	89	5619.01	89.00	5619.01	5	High Velocity
+135	Target Storage Quality-focused holistic array	Home	0	89	38479.72	89.00	38479.72	5	High Velocity
+200	Levis Mens Persistent needs-based array	Clothing	0	89	13647.66	89.00	13647.66	5	High Velocity
+246	Samsung Smartphones User-friendly clear-thinking ability	Electronics	0	89	14272.45	89.00	14272.45	5	High Velocity
+281	Adidas Accessories Multi-channeled national collaboration	Clothing	0	89	23644.62	89.00	23644.62	5	High Velocity
+305	Random House Fiction Streamlined content-based circuit	Books	0	89	5294.91	89.00	5294.91	5	High Velocity
+374	Nike Accessories Streamlined bandwidth-monitored ability	Clothing	0	89	29779.87	89.00	29779.87	5	High Velocity
+440	Home Depot Storage Switchable uniform parallelism	Home	0	89	11587.75	89.00	11587.75	5	High Velocity
+485	Under Armour Winter Robust human-resource task-force	Sports	0	89	24025.56	89.00	24025.56	5	High Velocity
+549	Zara Shoes Realigned reciprocal artificial intelligence	Clothing	0	89	21301.20	89.00	21301.20	5	High Velocity
+559	Harper Educational Compatible upward-trending neural-net	Books	0	89	2937.85	89.00	2937.85	5	High Velocity
+624	Random House Reference Visionary fault-tolerant architecture	Books	0	89	2649.64	89.00	2649.64	5	High Velocity
+753	West Elm Decor Innovative intermediate migration	Home	0	89	26795.05	89.00	26795.05	5	High Velocity
+790	H&M Accessories Mandatory dedicated project	Clothing	0	89	5797.42	89.00	5797.42	5	High Velocity
+802	Home Depot Decor Down-sized dynamic budgetary management	Home	0	89	29626.49	89.00	29626.49	5	High Velocity
+880	West Elm Storage Programmable background workforce	Home	0	89	27315.01	89.00	27315.01	5	High Velocity
+935	Sony Gaming Visionary multi-tasking time-frame	Electronics	0	89	69666.44	89.00	69666.44	5	High Velocity
+983	West Elm Decor Multi-lateral 3rdgeneration portal	Home	0	89	3873.23	89.00	3873.23	5	High Velocity
+999	Adidas Fitness Enterprise-wide neutral moratorium	Sports	0	89	13583.82	89.00	13583.82	5	High Velocity
+32	Gap Womens Monitored composite orchestration	Clothing	0	88	7338.72	88.00	7338.72	5	High Velocity
+57	Scholastic Educational Vision-oriented fault-tolerant portal	Books	0	88	5441.02	88.00	5441.02	5	High Velocity
+140	Scholastic Children Reactive homogeneous access	Books	0	88	5735.78	88.00	5735.78	5	High Velocity
+218	H&M Kids Seamless empowering artificial intelligence	Clothing	0	88	17965.60	88.00	17965.60	5	High Velocity
+260	Microsoft Tablets Customer-focused logistical analyzer	Electronics	0	88	68520.42	88.00	68520.42	5	High Velocity
+444	Nike Womens Centralized non-volatile artificial intelligence	Clothing	0	88	19422.09	88.00	19422.09	5	High Velocity
+448	H&M Accessories Versatile mobile customer loyalty	Clothing	0	88	13730.82	88.00	13730.82	5	High Velocity
+490	Scholastic Fiction Profound logistical moderator	Books	0	88	1781.81	88.00	1781.81	5	High Velocity
+522	West Elm Kitchen Up-sized modular approach	Home	0	88	3361.68	88.00	3361.68	5	High Velocity
+543	Wayfair Decor Multi-channeled contextually-based analyzer	Home	0	88	48849.45	88.00	48849.45	5	High Velocity
+567	Harper Children Customizable explicit conglomeration	Books	0	88	5736.26	88.00	5736.26	5	High Velocity
+618	Nike Accessories Optimized zero administration service-desk	Clothing	0	88	9187.67	88.00	9187.67	5	High Velocity
+696	Adidas Fitness Fully-configurable disintermediate software	Sports	0	88	24193.81	88.00	24193.81	5	High Velocity
+699	HP Gaming Object-based optimizing time-frame	Electronics	0	88	55899.43	88.00	55899.43	5	High Velocity
+740	Patagonia Team Sports Synergized bandwidth-monitored task-force	Sports	0	88	17090.74	88.00	17090.74	5	High Velocity
+747	Adidas Water Sports Total mission-critical Graphical User Interface	Sports	0	88	22498.62	88.00	22498.62	5	High Velocity
+791	Nike Womens Customizable cohesive task-force	Clothing	0	88	26909.29	88.00	26909.29	5	High Velocity
+825	Under Armour Team Sports Fundamental non-volatile task-force	Sports	0	88	30651.64	88.00	30651.64	5	High Velocity
+835	Target Garden User-friendly intermediate moratorium	Home	0	88	21919.15	88.00	21919.15	5	High Velocity
+878	Nike Outdoor Enterprise-wide even-keeled collaboration	Sports	0	88	20337.56	88.00	20337.56	5	High Velocity
+916	REI Team Sports Function-based neutral throughput	Sports	0	88	4437.16	88.00	4437.16	5	High Velocity
+12	HP Tablets Focused tangible analyzer	Electronics	0	87	16590.27	87.00	16590.27	5	High Velocity
+16	Dell Smartphones Up-sized solution-oriented application	Electronics	0	87	42116.59	87.00	42116.59	5	High Velocity
+23	Microsoft Accessories Optimized human-resource implementation	Electronics	0	87	92999.68	87.00	92999.68	5	High Velocity
+68	McGraw Hill Non-Fiction Compatible reciprocal moratorium	Books	0	87	2621.99	87.00	2621.99	5	High Velocity
+85	Adidas Winter Intuitive directional migration	Sports	0	87	8068.28	87.00	8068.28	5	High Velocity
+110	Random House Fiction Programmable executive flexibility	Books	0	87	4741.60	87.00	4741.60	5	High Velocity
+275	Random House Educational Programmable full-range support	Books	0	87	4084.07	87.00	4084.07	5	High Velocity
+355	Adidas Team Sports Devolved regional product	Sports	0	87	22872.73	87.00	22872.73	5	High Velocity
+438	McGraw Hill Children Synergistic human-resource migration	Books	0	87	4186.09	87.00	4186.09	5	High Velocity
+451	Harper Reference Reduced user-facing emulation	Books	0	87	4658.06	87.00	4658.06	5	High Velocity
+537	Patagonia Water Sports Pre-emptive responsive service-desk	Sports	0	87	27523.70	87.00	27523.70	5	High Velocity
+577	Gap Mens Grass-roots asymmetric access	Clothing	0	87	9563.47	87.00	9563.47	5	High Velocity
+584	McGraw Hill Reference De-engineered 24/7 installation	Books	0	87	3420.41	87.00	3420.41	5	High Velocity
+586	Levis Mens Business-focused local hub	Clothing	0	87	20976.35	87.00	20976.35	5	High Velocity
+669	McGraw Hill Educational Networked global focus group	Books	0	87	5001.06	87.00	5001.06	5	High Velocity
+691	Harper Educational Implemented high-level encryption	Books	0	87	5946.82	87.00	5946.82	5	High Velocity
+795	Microsoft Laptops Polarized client-server process improvement	Electronics	0	87	32751.05	87.00	32751.05	5	High Velocity
+800	REI Winter Secured motivating migration	Sports	0	87	28567.55	87.00	28567.55	5	High Velocity
+840	Nike Water Sports Ergonomic multimedia projection	Sports	0	87	25408.14	87.00	25408.14	5	High Velocity
+859	REI Winter Assimilated bi-directional productivity	Sports	0	87	23229.19	87.00	23229.19	5	High Velocity
+913	Adidas Winter Visionary responsive system engine	Sports	0	87	24326.94	87.00	24326.94	5	High Velocity
+934	Penguin Non-Fiction Proactive empowering capability	Books	0	87	5199.13	87.00	5199.13	5	High Velocity
+998	Patagonia Winter Diverse multi-state interface	Sports	0	87	18204.60	87.00	18204.60	5	High Velocity
+216	HP Tablets Expanded dedicated product	Electronics	0	86	82162.60	86.00	82162.60	5	High Velocity
+247	Penguin Children Public-key systemic Graphic Interface	Books	0	86	2031.82	86.00	2031.82	5	High Velocity
+304	McGraw Hill Children Virtual contextually-based installation	Books	0	86	3366.95	86.00	3366.95	5	High Velocity
+359	Scholastic Educational Devolved radical conglomeration	Books	0	86	2859.92	86.00	2859.92	5	High Velocity
+446	Zara Accessories Phased solution-oriented help-desk	Clothing	0	86	3731.48	86.00	3731.48	5	High Velocity
+473	Samsung Laptops Customer-focused optimal productivity	Electronics	0	86	74615.31	86.00	74615.31	5	High Velocity
+534	Zara Shoes Organic reciprocal architecture	Clothing	0	86	5093.52	86.00	5093.52	5	High Velocity
+553	Samsung Smartphones Reduced disintermediate leverage	Electronics	0	86	14293.32	86.00	14293.32	5	High Velocity
+605	West Elm Furniture Public-key web-enabled info-mediaries	Home	0	86	3358.84	86.00	3358.84	5	High Velocity
+702	Target Decor Multi-tiered dynamic knowledge user	Home	0	86	20421.99	86.00	20421.99	5	High Velocity
+718	Home Depot Decor Profound 24hour model	Home	0	86	26775.86	86.00	26775.86	5	High Velocity
+720	Home Depot Furniture Cross-platform regional product	Home	0	86	24696.24	86.00	24696.24	5	High Velocity
+721	Adidas Team Sports Reduced actuating groupware	Sports	0	86	16989.36	86.00	16989.36	5	High Velocity
+757	West Elm Decor Fully-configurable dedicated success	Home	0	86	52031.93	86.00	52031.93	5	High Velocity
+808	Adidas Outdoor Exclusive bi-directional info-mediaries	Sports	0	86	20915.98	86.00	20915.98	5	High Velocity
+833	Microsoft Accessories Right-sized optimizing open architecture	Electronics	0	86	59546.42	86.00	59546.42	5	High Velocity
+847	Levis Shoes Compatible object-oriented customer loyalty	Clothing	0	86	15024.80	86.00	15024.80	5	High Velocity
+869	H&M Womens Diverse national Local Area Network	Clothing	0	86	13413.21	86.00	13413.21	5	High Velocity
+132	Adidas Water Sports Quality-focused disintermediate extranet	Sports	0	85	16755.92	85.00	16755.92	5	High Velocity
+137	Apple Tablets Face-to-face 6thgeneration service-desk	Electronics	0	85	118086.76	85.00	118086.76	5	High Velocity
+278	Target Garden Synergized high-level help-desk	Home	0	85	8142.77	85.00	8142.77	5	High Velocity
+285	Adidas Womens Object-based secondary leverage	Clothing	0	85	20849.35	85.00	20849.35	5	High Velocity
+418	Under Armour Water Sports Progressive maximized knowledge user	Sports	0	85	16395.11	85.00	16395.11	5	High Velocity
+488	Gap Shoes Face-to-face upward-trending info-mediaries	Clothing	0	85	24440.64	85.00	24440.64	5	High Velocity
+506	H&M Mens Multi-channeled full-range circuit	Clothing	0	85	2299.58	85.00	2299.58	5	High Velocity
+625	Random House Non-Fiction Enhanced empowering Internet solution	Books	0	85	2073.80	85.00	2073.80	5	High Velocity
+671	HP Accessories Right-sized grid-enabled Local Area Network	Electronics	0	85	52941.95	85.00	52941.95	5	High Velocity
+759	Target Kitchen Streamlined bandwidth-monitored contingency	Home	0	85	31748.43	85.00	31748.43	5	High Velocity
+772	Samsung Tablets Team-oriented foreground software	Electronics	0	85	10623.38	85.00	10623.38	5	High Velocity
+852	Penguin Fiction Secured incremental system engine	Books	0	85	5202.80	85.00	5202.80	5	High Velocity
+921	Home Depot Garden Polarized client-driven benchmark	Home	0	85	11403.51	85.00	11403.51	5	High Velocity
+11	Adidas Fitness Up-sized local functionalities	Sports	0	84	23086.76	84.00	23086.76	5	High Velocity
+42	Gap Womens Balanced logistical collaboration	Clothing	0	84	6093.57	84.00	6093.57	5	High Velocity
+475	McGraw Hill Fiction Public-key web-enabled toolset	Books	0	84	3225.85	84.00	3225.85	5	High Velocity
+562	Microsoft Tablets Synergized directional throughput	Electronics	0	84	38767.05	84.00	38767.05	5	High Velocity
+609	Samsung Tablets Implemented logistical knowledgebase	Electronics	0	84	96400.10	84.00	96400.10	5	High Velocity
+715	Zara Kids Total systemic contingency	Clothing	0	84	24775.94	84.00	24775.94	5	High Velocity
+760	Target Garden Mandatory modular knowledgebase	Home	0	84	26124.02	84.00	26124.02	5	High Velocity
+764	West Elm Furniture Ameliorated national service-desk	Home	0	84	18459.02	84.00	18459.02	5	High Velocity
+923	Target Furniture Visionary modular alliance	Home	0	84	41390.87	84.00	41390.87	5	High Velocity
+151	Samsung Accessories Pre-emptive uniform paradigm	Electronics	0	83	104130.23	83.00	104130.23	5	High Velocity
+211	Gap Shoes Multi-lateral executive adapter	Clothing	0	83	4168.94	83.00	4168.94	5	High Velocity
+558	H&M Accessories Optimized responsive framework	Clothing	0	83	10259.20	83.00	10259.20	5	High Velocity
+595	Dell Accessories Networked even-keeled frame	Electronics	0	83	41722.59	83.00	41722.59	5	High Velocity
+630	Zara Accessories Advanced tertiary collaboration	Clothing	0	83	2770.46	83.00	2770.46	5	High Velocity
+638	HP Tablets Programmable static customer loyalty	Electronics	0	83	28096.45	83.00	28096.45	5	High Velocity
+650	McGraw Hill Fiction Compatible background extranet	Books	0	83	5314.29	83.00	5314.29	5	High Velocity
+778	Dell Smartphones Triple-buffered systemic frame	Electronics	0	83	8464.02	83.00	8464.02	5	High Velocity
+44	Adidas Team Sports Streamlined content-based framework	Sports	0	82	10655.57	82.00	10655.57	5	High Velocity
+48	IKEA Furniture Phased full-range functionalities	Home	0	82	15462.76	82.00	15462.76	5	High Velocity
+480	Harper Children Intuitive regional Graphic Interface	Books	0	82	3682.65	82.00	3682.65	5	High Velocity
+545	Dell Gaming Cloned clear-thinking instruction set	Electronics	0	82	117847.93	82.00	117847.93	5	High Velocity
+668	Apple Smartphones Assimilated full-range focus group	Electronics	0	82	66402.28	82.00	66402.28	5	High Velocity
+763	Adidas Water Sports Extended leadingedge structure	Sports	0	82	31715.36	82.00	31715.36	5	High Velocity
+866	Wayfair Storage Open-architected system-worthy open architecture	Home	0	82	42028.46	82.00	42028.46	5	High Velocity
+907	Scholastic Children Right-sized non-volatile monitoring	Books	0	82	6490.85	82.00	6490.85	5	High Velocity
+18	Levis Shoes Exclusive heuristic synergy	Clothing	0	81	9898.36	81.00	9898.36	5	High Velocity
+133	Penguin Reference Optional optimal info-mediaries	Books	0	81	1446.11	81.00	1446.11	5	High Velocity
+289	Patagonia Fitness Digitized attitude-oriented benchmark	Sports	0	81	16498.70	81.00	16498.70	5	High Velocity
+443	IKEA Storage Sharable human-resource benchmark	Home	0	81	37521.22	81.00	37521.22	5	High Velocity
+601	Nike Kids Extended multi-state extranet	Clothing	0	81	15253.29	81.00	15253.29	5	High Velocity
+656	Samsung Gaming Networked regional leverage	Electronics	0	81	19042.35	81.00	19042.35	5	High Velocity
+768	Nike Kids Organic methodical application	Clothing	0	81	5049.00	81.00	5049.00	5	High Velocity
+35	Adidas Shoes Organic next generation success	Clothing	0	80	2041.14	80.00	2041.14	5	High Velocity
+373	Target Furniture Adaptive contextually-based superstructure	Home	0	80	42537.72	80.00	42537.72	5	High Velocity
+407	West Elm Decor Universal hybrid projection	Home	0	80	33368.01	80.00	33368.01	5	High Velocity
+697	Nike Winter Organic composite infrastructure	Sports	0	80	28618.65	80.00	28618.65	5	High Velocity
+698	REI Winter Cross-group object-oriented flexibility	Sports	0	80	24883.70	80.00	24883.70	5	High Velocity
+728	Dell Smartphones Monitored scalable capacity	Electronics	0	80	49459.53	80.00	49459.53	5	High Velocity
+268	Penguin Reference Monitored tangible attitude	Books	0	79	2338.65	79.00	2338.65	5	High Velocity
+310	Wayfair Kitchen Ameliorated logistical neural-net	Home	0	79	20863.59	79.00	20863.59	5	High Velocity
+388	Target Furniture Visionary zero-defect capacity	Home	0	79	45710.31	79.00	45710.31	5	High Velocity
+568	Home Depot Storage User-friendly asynchronous product	Home	0	79	12027.25	79.00	12027.25	5	High Velocity
+929	Microsoft Tablets Virtual grid-enabled strategy	Electronics	0	79	16887.43	79.00	16887.43	5	High Velocity
+37	Harper Fiction Configurable local Graphic Interface	Books	0	78	2658.98	78.00	2658.98	5	High Velocity
+148	Nike Shoes User-friendly zero tolerance application	Clothing	0	78	2572.94	78.00	2572.94	5	High Velocity
+198	Levis Accessories Visionary actuating access	Clothing	0	78	11873.35	78.00	11873.35	5	High Velocity
+523	Apple Laptops Synergized executive contingency	Electronics	0	78	32154.56	78.00	32154.56	5	High Velocity
+588	Samsung Accessories Sharable responsive info-mediaries	Electronics	0	78	55207.52	78.00	55207.52	5	High Velocity
+2	Random House Fiction Secured multimedia open architecture	Books	0	77	2261.23	77.00	2261.23	5	High Velocity
+82	Home Depot Furniture Configurable systematic ability	Home	0	77	5464.98	77.00	5464.98	5	High Velocity
+500	REI Water Sports Visionary non-volatile installation	Sports	0	77	24062.09	77.00	24062.09	5	High Velocity
+560	IKEA Garden Multi-layered system-worthy orchestration	Home	0	77	26575.26	77.00	26575.26	5	High Velocity
+598	Apple Laptops Persistent high-level throughput	Electronics	0	76	67420.64	76.00	67420.64	5	High Velocity
+619	Levis Mens Re-contextualized tertiary implementation	Clothing	0	76	12918.53	76.00	12918.53	5	High Velocity
+758	REI Water Sports Future-proofed exuding success	Sports	0	76	6972.76	76.00	6972.76	5	High Velocity
+244	Dell Smartphones Vision-oriented zero tolerance infrastructure	Electronics	0	75	74416.91	75.00	74416.91	5	High Velocity
+476	Wayfair Storage Optimized solution-oriented interface	Home	0	75	19941.48	75.00	19941.48	5	High Velocity
+661	IKEA Decor Seamless holistic hardware	Home	0	75	7005.78	75.00	7005.78	5	High Velocity
+936	Samsung Smartphones Optional systemic functionalities	Electronics	0	75	11431.42	75.00	11431.42	5	High Velocity
+287	Home Depot Garden Face-to-face content-based model	Home	0	73	7943.91	73.00	7943.91	5	High Velocity
+441	Patagonia Outdoor Ergonomic directional help-desk	Sports	0	73	24889.57	73.00	24889.57	5	High Velocity
+526	Gap Kids Configurable mission-critical monitoring	Clothing	0	73	12513.51	73.00	12513.51	5	High Velocity
+368	Scholastic Children Right-sized bifurcated customer loyalty	Books	0	72	3431.31	72.00	3431.31	5	High Velocity
+391	REI Team Sports Right-sized directional neural-net	Sports	0	72	18958.26	72.00	18958.26	5	High Velocity
+231	Random House Educational Switchable mission-critical productivity	Books	0	66	1336.30	66.00	1336.30	5	High Velocity
+975	Apple Laptops Configurable optimizing conglomeration	Electronics	0	66	56076.44	66.00	56076.44	5	High Velocity
+286	Sony Laptops Fully-configurable disintermediate knowledge user	Electronics	0	63	92081.66	63.00	92081.66	5	High Velocity
+890	Penguin Reference Total homogeneous encoding	Books	0	60	2083.82	60.00	2083.82	5	High Velocity
